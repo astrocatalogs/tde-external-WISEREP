@@ -1,0 +1,16 @@
+{
+    "09ge_20090520_P200_v1.ascii": {
+        "Type": "TDE",
+        "Redshift": "0.064",
+        "Obs. Date": "2009-05-20",
+        "Program": "PTF",
+        "Contributor": "Arcavi et al. 2014",
+        "Bibcode": "2014ApJ...793...38A",
+        "Instrument": "P200 - DBSP",
+        "Observer": "Unknown",
+        "Reducer": "Arcavi",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-26",
+        "Modified By": "ofer"
+    }
+}

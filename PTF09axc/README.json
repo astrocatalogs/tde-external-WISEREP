@@ -1,0 +1,30 @@
+{
+    "09axc_20090722_Keck1_v1.ascii": {
+        "Type": "TDE",
+        "Redshift": "0.1146",
+        "Obs. Date": "2009-07-22",
+        "Program": "PTF",
+        "Contributor": "Arcavi et al. 2014",
+        "Bibcode": "2014ApJ...793...38A",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Quimby, Theissen",
+        "Reducer": "Cenko",
+        "Reduction Status": "final",
+        "Last Modified": "2014-10-26",
+        "Modified By": "ofer"
+    },
+    "09axc_20130509_Keck1_v2.ascii": {
+        "Type": "TDE",
+        "Redshift": "0.1146",
+        "Obs. Date": "2013-05-09",
+        "Program": "PTF",
+        "Contributor": "Arcavi et al. 2014",
+        "Bibcode": "2014ApJ...793...38A",
+        "Instrument": "Keck1 - LRIS",
+        "Observer": "Perley, Tang",
+        "Reducer": "annalisa",
+        "Reduction Status": "final",
+        "Last Modified": "2016-05-06",
+        "Modified By": "ilanm"
+    }
+}
