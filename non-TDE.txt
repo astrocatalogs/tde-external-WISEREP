@@ -5684,3 +5684,8 @@ SN2016iwk is a SN Ia
 SN2016ivt is a SN Ia
 AT2016ind is a Other
 SN2016ile is a SN Ia
+SN2016ixb is a SN Ia
+SN2016iww is a SN Ia
+SN2016iwv is a SN Ia
+SN2016ipb is a SN Ia
+SN2016ioq is a SN Ia
