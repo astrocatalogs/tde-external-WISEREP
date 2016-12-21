@@ -5689,3 +5689,7 @@ SN2016iww is a SN Ia
 SN2016iwv is a SN Ia
 SN2016ipb is a SN Ia
 SN2016ioq is a SN Ia
+SN2016iyf is a SN Ia
+SN2016iye is a SN IIb
+SN2016iyd is a SN II
+SN2016ixe is a SN Ia
