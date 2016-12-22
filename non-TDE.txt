@@ -5693,3 +5693,10 @@ SN2016iyf is a SN Ia
 SN2016iye is a SN IIb
 SN2016iyd is a SN II
 SN2016ixe is a SN Ia
+OGLE16fxq is a Other
+SN2016iyv is a SN Ia-91T-like
+AT2016iyp is a Varstar
+AT2016iym is a Varstar
+SN2016iyk is a SN II
+SN2016ixf is a SN Ia
+SN2016itl is a SN Ia
