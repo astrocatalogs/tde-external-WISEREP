@@ -5700,3 +5700,7 @@ AT2016iym is a Varstar
 SN2016iyk is a SN II
 SN2016ixf is a SN Ia
 SN2016itl is a SN Ia
+MASTERJ133905.00-201718.3 is a SN Ia
+SN2016iyz is a SN II
+AT2016iyr is a Other
+SN2016iyl is a SN Ia
