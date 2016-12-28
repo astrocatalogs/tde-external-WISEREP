@@ -5704,3 +5704,4 @@ MASTERJ133905.00-201718.3 is a SN Ia
 SN2016iyz is a SN II
 AT2016iyr is a Other
 SN2016iyl is a SN Ia
+DLT16ca is a Other
