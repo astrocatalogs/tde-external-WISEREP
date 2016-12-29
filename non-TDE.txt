@@ -5705,3 +5705,6 @@ SN2016iyz is a SN II
 AT2016iyr is a Other
 SN2016iyl is a SN Ia
 DLT16ca is a Other
+SN2016jca is a SN Ic-BL
+SN2016jae is a SN Ia
+AT2016jbw is a Varstar
