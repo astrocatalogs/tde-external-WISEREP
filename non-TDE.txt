@@ -5708,3 +5708,10 @@ DLT16ca is a Other
 SN2016jca is a SN Ic-BL
 SN2016jae is a SN Ia
 AT2016jbw is a Varstar
+ATLAS16eah is a Other
+SN2016jby is a SN II
+SN2016jbs is a SN Ia
+AT2016jbc is a Varstar
+AT2016jaj is a Other
+SN2016izv is a SN Ia
+AT2016izi is a Varstar

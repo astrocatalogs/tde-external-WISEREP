@@ -1,5 +1,4 @@
 {
-    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -5707,6 +5706,14 @@
         "DLT16ca",
         "SN2016jca",
         "SN2016jae",
-        "AT2016jbw"
-    ]
+        "AT2016jbw",
+        "ATLAS16eah",
+        "SN2016jby",
+        "SN2016jbs",
+        "AT2016jbc",
+        "AT2016jaj",
+        "SN2016izv",
+        "AT2016izi"
+    ],
+    "completed": []
 }
