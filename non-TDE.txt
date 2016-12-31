@@ -5715,3 +5715,4 @@ AT2016jbc is a Varstar
 AT2016jaj is a Other
 SN2016izv is a SN Ia
 AT2016izi is a Varstar
+SN2016jdj is a SN Ia
