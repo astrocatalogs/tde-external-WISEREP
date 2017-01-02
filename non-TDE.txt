@@ -5717,3 +5717,5 @@ SN2016izv is a SN Ia
 AT2016izi is a Varstar
 SN2016jdj is a SN Ia
 SN2016jdw is a SN Ib
+SN2016jfu is a SN IIP
+SN2016jdv is a SN Ia
