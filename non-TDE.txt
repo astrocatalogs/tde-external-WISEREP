@@ -5721,3 +5721,8 @@ SN2016jfu is a SN IIP
 SN2016jdv is a SN Ia
 SN2016jft is a SN IIP
 SN2016jdl is a SN Ia
+SN2016jgr is a SN IIn
+SN2016jga is a SN II
+OGLE17abx is a SN II
+SN2016jel is a SN Ia
+AT2016jbu is a 
