@@ -5726,3 +5726,6 @@ SN2016jga is a SN II
 OGLE17abx is a SN II
 SN2016jel is a SN Ia
 AT2016jbu is a 
+SN2017ag is a SN Ia
+SN2017X is a SN Ia-91T-like
+SN2016jfy is a SN Ia
