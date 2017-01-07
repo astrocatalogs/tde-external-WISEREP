@@ -5729,3 +5729,8 @@ AT2016jbu is a
 SN2017ag is a SN Ia
 SN2017X is a SN Ia-91T-like
 SN2016jfy is a SN Ia
+SN2017ah is a SN Ia
+DES16X2gap is a SN Ia
+SN2017bc is a SN Ia
+SN2017ar is a SN Ia
+SN2017ad is a SN Ia
