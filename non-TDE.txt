@@ -5735,3 +5735,4 @@ SN2017bc is a SN Ia
 SN2017ar is a SN Ia
 SN2017ad is a SN Ia
 SN2017ai is a SN Ia
+SN2017hn is a SN Ia
