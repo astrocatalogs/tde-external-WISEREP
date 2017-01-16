@@ -5738,3 +5738,4 @@ SN2017ai is a SN Ia
 SN2017hn is a SN Ia
 SN2017jd is a SN Ia
 SN2017hq is a SN Ia
+SN2012cu is a SN Ia
