@@ -5744,3 +5744,6 @@ ATLAS17adf is a Galaxy
 ATLAS17abx is a SN Ia
 AT2017hm is a SN Ia
 AT2017hl is a SN Ib
+SN2017le is a SN Ia
+SN2017jy is a SN Ia
+SN2017jr is a SN Ia
