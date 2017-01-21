@@ -5747,3 +5747,10 @@ AT2017hl is a SN Ib
 SN2017le is a SN Ia
 SN2017jy is a SN Ia
 SN2017jr is a SN Ia
+SN2017lm is a SN Ia
+SN2016jbu is a 
+SN2017ln is a SN Ia
+SN2017kz is a SN Ia
+SN2017la is a SN II
+SN2017lb is a SN Ia
+SN2017lw is a SN Ia
