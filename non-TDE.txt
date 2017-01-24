@@ -5754,3 +5754,7 @@ SN2017kz is a SN Ia
 SN2017la is a SN II
 SN2017lb is a SN Ia
 SN2017lw is a SN Ia
+SN2017ms is a SN Ia
+SN2017mf is a SN Ia
+SN2017lc is a SN Ia
+SN2017jl is a SN Ia
