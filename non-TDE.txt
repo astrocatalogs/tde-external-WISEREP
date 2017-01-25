@@ -5758,3 +5758,4 @@ SN2017ms is a SN Ia
 SN2017mf is a SN Ia
 SN2017lc is a SN Ia
 SN2017jl is a SN Ia
+SN2017lf is a SN Ia
