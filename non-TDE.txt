@@ -5759,3 +5759,7 @@ SN2017mf is a SN Ia
 SN2017lc is a SN Ia
 SN2017jl is a SN Ia
 SN2017lf is a SN Ia
+SN2017nx is a SN Ia
+SN2017nt is a SN Ia-91T-like
+SN2017ns is a SN Ia
+SN2017nh is a SN Ia
