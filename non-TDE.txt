@@ -5763,3 +5763,5 @@ SN2017nx is a SN Ia
 SN2017nt is a SN Ia-91T-like
 SN2017ns is a SN Ia
 SN2017nh is a SN Ia
+SN2017on is a SN Ia
+SN2017nw is a SN Ia
