@@ -5772,3 +5772,5 @@ SN2017me is a SN Ia
 SN2017lv is a SN Ia
 SN2017lt is a SN II
 SN2017jt is a Galaxy
+SN2017mu is a SN Ia
+SN2017mt is a SN Ia
