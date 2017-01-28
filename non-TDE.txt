@@ -5765,3 +5765,10 @@ SN2017ns is a SN Ia
 SN2017nh is a SN Ia
 SN2017on is a SN Ia
 SN2017nw is a SN Ia
+SN2017ng is a SN Ia
+SN2017nf is a SN I
+SN2017mw is a SN IIb
+SN2017me is a SN Ia
+SN2017lv is a SN Ia
+SN2017lt is a SN II
+SN2017jt is a Galaxy
