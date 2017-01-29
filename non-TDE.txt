@@ -5774,3 +5774,7 @@ SN2017lt is a SN II
 SN2017jt is a Galaxy
 SN2017mu is a SN Ia
 SN2017mt is a SN Ia
+SN2017rt is a SN Ic
+AT2017pv is a CV
+SN2017pp is a SN Ia-91T-like
+AT2017pm is a 
