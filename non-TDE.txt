@@ -5779,3 +5779,4 @@ AT2017pv is a CV
 SN2017pp is a SN Ia-91T-like
 AT2017pm is a 
 SN2017wb is a SN Ia
+SN2009lc is a 
