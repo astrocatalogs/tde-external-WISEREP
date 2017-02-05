@@ -5783,3 +5783,4 @@ SN2009lc is a
 SN2017yi is a SN Ia
 SN2017yv is a SN Ia
 SN2017wi is a SN Ia
+SN2017aap is a SN Ia
