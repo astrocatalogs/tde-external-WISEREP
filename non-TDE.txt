@@ -5784,3 +5784,9 @@ SN2017yi is a SN Ia
 SN2017yv is a SN Ia
 SN2017wi is a SN Ia
 SN2017aap is a SN Ia
+SN2017aas is a SN Ia
+SN2017zv is a SN Ia
+SN2017zd is a SN Ia
+SN2017yn is a SN Ia
+SN2017ux is a SN Ia
+SN2017jo is a SN IIb
