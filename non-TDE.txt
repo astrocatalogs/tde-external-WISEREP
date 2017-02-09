@@ -5991,3 +5991,5 @@ SN2002jv is a SN Ib
 SN2004fs is a SN Ia
 SN2007td is a SN IIn
 SN2017adi is a SN Ia
+SN2017ahn is a SN II
+SN2017abw is a SN II
