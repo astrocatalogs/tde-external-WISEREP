@@ -5995,3 +5995,10 @@ SN2017ahn is a SN II
 SN2017abw is a SN II
 SN2017acq is a SN Ia
 SN2017auu is a SN II
+SN2017awk is a SN Ia
+SN2017aub is a SN II
+ATLAS17bas is a SN Ia-91T-like
+AT2017aww is a Galaxy
+SN2017auf is a SN II
+SN2017anf is a SN II
+AT2017afm is a Other
