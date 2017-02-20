@@ -6002,3 +6002,6 @@ AT2017aww is a Galaxy
 SN2017auf is a SN II
 SN2017anf is a SN II
 AT2017afm is a Other
+SN2017avl is a SN Ia
+SN2017aut is a SN Ia
+SN2017awz is a SN Ia-91T-like
