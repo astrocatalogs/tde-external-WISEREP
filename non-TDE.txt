@@ -6005,3 +6005,12 @@ AT2017afm is a Other
 SN2017avl is a SN Ia
 SN2017aut is a SN Ia
 SN2017awz is a SN Ia-91T-like
+PS17bgx is a Other
+PS17bgn is a SLSN-II
+PS17beo is a Other
+PS17bel is a SN Ia
+PS17bek is a Other
+PS17bdv is a SN Ia
+PS17bdt is a SN II
+PS17bda is a SN Ia
+PS17bcv is a SN IIn

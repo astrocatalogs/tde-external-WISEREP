@@ -1,5 +1,4 @@
 {
-    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -6004,6 +6003,16 @@
         "AT2017afm",
         "SN2017avl",
         "SN2017aut",
-        "SN2017awz"
-    ]
+        "SN2017awz",
+        "PS17bgx",
+        "PS17bgn",
+        "PS17beo",
+        "PS17bel",
+        "PS17bek",
+        "PS17bdv",
+        "PS17bdt",
+        "PS17bda",
+        "PS17bcv"
+    ],
+    "completed": []
 }
