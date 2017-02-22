@@ -6014,3 +6014,10 @@ PS17bdv is a SN Ia
 PS17bdt is a SN II
 PS17bda is a SN Ia
 PS17bcv is a SN IIn
+SN2017bcc is a SLSN-II
+SN2017bca is a 
+SN2017bcb is a SN Ia
+SN2017bby is a SN Ia
+SN2017bbz is a SN II
+SN2017bbw is a SN Ia
+SN2017bbx is a SN IIn
