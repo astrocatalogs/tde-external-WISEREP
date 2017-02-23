@@ -6021,3 +6021,5 @@ SN2017bby is a SN Ia
 SN2017bbz is a SN II
 SN2017bbw is a SN Ia
 SN2017bbx is a SN IIn
+SN2017axl is a SN Ia
+SN2017avj is a SN Ia-91bg-like
