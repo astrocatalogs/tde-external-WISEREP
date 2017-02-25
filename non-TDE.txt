@@ -6024,3 +6024,6 @@ SN2017bbx is a SN IIn
 SN2017axl is a SN Ia
 SN2017avj is a SN Ia-91bg-like
 SN2017bgp is a SN Ia
+SN2017bgu is a SN Ib
+SN2017azk is a SN Ia
+SN2017ays is a SN II
