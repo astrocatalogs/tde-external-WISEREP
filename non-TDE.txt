@@ -6027,3 +6027,5 @@ SN2017bgp is a SN Ia
 SN2017bgu is a SN Ib
 SN2017azk is a SN Ia
 SN2017ays is a SN II
+SN2017bke is a SN Ia
+SN2017bbq is a SN II
