@@ -1,5 +1,4 @@
 {
-    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -6127,5 +6126,6 @@
         "ESSENCEm026",
         "ESSENCEg128",
         "ESSENCEp429"
-    ]
+    ],
+    "completed": []
 }
