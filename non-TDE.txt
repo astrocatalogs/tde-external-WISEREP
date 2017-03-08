@@ -6127,3 +6127,13 @@ ESSENCEs372 is a SN Ia
 ESSENCEm026 is a SN Ia
 ESSENCEg128 is a SN II
 ESSENCEp429 is a SN Ia
+SN2017byj is a SN Ia
+SN2017byz is a SN II
+AT2017bxs is a Varstar
+SN2017blk is a SN Ia
+SN2017aym is a SN IIP
+SN2017byc is a SN Ia
+SN2017byb is a SN Ia
+SN2017bel is a SN II
+SN2017aww is a SN II
+SN2017bos is a SN Ia

@@ -1,4 +1,5 @@
 {
+    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -6125,7 +6126,16 @@
         "ESSENCEs372",
         "ESSENCEm026",
         "ESSENCEg128",
-        "ESSENCEp429"
-    ],
-    "completed": []
+        "ESSENCEp429",
+        "SN2017byj",
+        "SN2017byz",
+        "AT2017bxs",
+        "SN2017blk",
+        "SN2017aym",
+        "SN2017byc",
+        "SN2017byb",
+        "SN2017bel",
+        "SN2017aww",
+        "SN2017bos"
+    ]
 }
