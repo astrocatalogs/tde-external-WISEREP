@@ -6137,3 +6137,12 @@ SN2017byb is a SN Ia
 SN2017bel is a SN II
 SN2017aww is a SN II
 SN2017bos is a SN Ia
+PS17bie is a Galaxy
+PS17bgm is a AGN
+SN2017bzg is a SN Ia
+SN2017bzm is a SN IIn
+ATLAS17bkt is a Other
+SN2017bxg is a SN Ia
+SN2017blh is a SN II
+SN2017bzt is a SN Ia
+SN2017byv is a SN II
