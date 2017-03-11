@@ -6147,3 +6147,6 @@ SN2017blh is a SN II
 SN2017bzt is a SN Ia
 SN2017byv is a SN II
 AT2017cak is a 
+SN2017cbv is a SN Ia
+SN2017cav is a SN Ia
+SN2017cal is a SN Ia
