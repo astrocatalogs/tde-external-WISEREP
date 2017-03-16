@@ -6150,3 +6150,4 @@ AT2017cak is a
 SN2017cbv is a SN Ia
 SN2017cav is a SN Ia
 SN2017cal is a SN Ia
+SN2017cel is a SN II
