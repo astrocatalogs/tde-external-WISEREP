@@ -6151,3 +6151,4 @@ SN2017cbv is a SN Ia
 SN2017cav is a SN Ia
 SN2017cal is a SN Ia
 SN2017cel is a SN II
+SN2017cfa is a SN IIP
