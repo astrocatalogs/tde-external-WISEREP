@@ -6153,3 +6153,4 @@ SN2017cal is a SN Ia
 SN2017cel is a SN II
 SN2017cfa is a SN IIP
 SN2017cfd is a SN Ia
+SN2017cff is a SN IIP
