@@ -6154,3 +6154,7 @@ SN2017cel is a SN II
 SN2017cfa is a SN IIP
 SN2017cfd is a SN Ia
 SN2017cff is a SN IIP
+SN2017cjd is a SN Ic
+SN2017cjc is a SN Ia
+SN2017cjb is a SN II
+AT2017chi is a Galaxy
