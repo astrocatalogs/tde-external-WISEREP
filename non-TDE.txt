@@ -6158,3 +6158,8 @@ SN2017cjd is a SN Ic
 SN2017cjc is a SN Ia
 SN2017cjb is a SN II
 AT2017chi is a Galaxy
+SN2017cig is a SN Ia
+SN2017cka is a SN Ia
+SN2017cju is a SN Ia
+SN2017cin is a SN IIn
+AT2017ceq is a 
