@@ -6163,3 +6163,16 @@ SN2017cka is a SN Ia
 SN2017cju is a SN Ia
 SN2017cin is a SN IIn
 AT2017ceq is a 
+ATLAS17dcj is a CV
+SN2017ckf is a SN Ia
+AT2017cjx is a CV
+SN2017cjv is a SN Ia
+SN2017cjr is a SN Ia
+SN2017ciy is a SN Ia
+SN2017cir is a SN Ia
+SN2017cii is a SN Ia
+SN2017cfp is a SN Ia
+SN2017cfo is a SN
+SN2017cfc is a SN Ia
+AT2017cbg is a Varstar
+SN2017ben is a SN IIn
