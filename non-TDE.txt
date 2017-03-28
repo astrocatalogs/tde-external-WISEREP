@@ -6176,3 +6176,4 @@ SN2017cfo is a SN
 SN2017cfc is a SN Ia
 AT2017cbg is a Varstar
 SN2017ben is a SN IIn
+SN2017ckg is a SN II
