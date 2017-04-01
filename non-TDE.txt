@@ -6180,3 +6180,4 @@ SN2017ckg is a SN II
 SN2017ckj is a SN
 SN2017cki is a SN Ia
 SN2017ckx is a SN Ia
+SN2015ce is a SN Ia-02cx-like
