@@ -6181,3 +6181,5 @@ SN2017ckj is a SN
 SN2017cki is a SN Ia
 SN2017ckx is a SN Ia
 SN2015ce is a SN Ia-02cx-like
+SN2017coa is a SN Ia
+SN2017cne is a SN Ia-91T-like

@@ -2694,4 +2694,4 @@ Runtime: 3.2386324286460875 minutesRuntime: 2.1235135356585184 minutesRuntime: 0
 From statement 3: SN2017cki has no spectra to collect
 Runtime: 0.39282563924789426 minutesFrom statement 3: SN2017ckx has no spectra to collect
 Runtime: 0.3033369978268941 minutesFrom statement 3: SN2015ce has no spectra to collect
-Runtime: 0.30259177684783933 minutesRuntime: 0.2557430664698283 minutesRuntime: 0.23058088620503744 minutes
+Runtime: 0.30259177684783933 minutesRuntime: 0.2557430664698283 minutesRuntime: 0.23058088620503744 minutesRuntime: 0.3411839008331299 minutes
