@@ -6184,3 +6184,4 @@ SN2015ce is a SN Ia-02cx-like
 SN2017coa is a SN Ia
 SN2017cne is a SN Ia-91T-like
 SN2017cpu is a SN Ia
+SN2017cts is a SN Ia
