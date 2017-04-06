@@ -1,4 +1,5 @@
 {
+    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -6183,7 +6184,18 @@
         "SN2017coa",
         "SN2017cne",
         "SN2017cpu",
-        "SN2017cts"
-    ],
-    "completed": []
+        "SN2017cts",
+        "SN2006qr",
+        "SN2006F",
+        "SN2006eg",
+        "SN2005lr",
+        "SN2005bb",
+        "SN2005ad",
+        "SN2004bm",
+        "SN2003dr",
+        "SN2003bk",
+        "SN2002jz",
+        "SN2002J",
+        "SN2002gw"
+    ]
 }

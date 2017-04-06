@@ -6185,3 +6185,15 @@ SN2017coa is a SN Ia
 SN2017cne is a SN Ia-91T-like
 SN2017cpu is a SN Ia
 SN2017cts is a SN Ia
+SN2006qr is a SN II
+SN2006F is a SN Ib
+SN2006eg is a SN Ib/c
+SN2005lr is a SN IIb
+SN2005bb is a SN II
+SN2005ad is a SN II
+SN2004bm is a SN IIb
+SN2003dr is a SN Ib - Ca-rich
+SN2003bk is a SN II
+SN2002jz is a SN Ib/c
+SN2002J is a SN Ic
+SN2002gw is a SN II
