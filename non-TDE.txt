@@ -6197,3 +6197,4 @@ SN2003bk is a SN II
 SN2002jz is a SN Ib/c
 SN2002J is a SN Ic
 SN2002gw is a SN II
+SN2017cqe is a SN Ia

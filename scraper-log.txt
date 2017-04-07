@@ -2695,4 +2695,4 @@ From statement 3: SN2017cki has no spectra to collect
 Runtime: 0.39282563924789426 minutesFrom statement 3: SN2017ckx has no spectra to collect
 Runtime: 0.3033369978268941 minutesFrom statement 3: SN2015ce has no spectra to collect
 Runtime: 0.30259177684783933 minutesRuntime: 0.2557430664698283 minutesRuntime: 0.23058088620503744 minutesRuntime: 0.3411839008331299 minutesRuntime: 0.2367476224899292 minutesRuntime: 0.32342639764149983 minutesRuntime: 0.2120091756184896 minutesRuntime: 0.30294485092163087 minutes2 objects returned for SN2002J
-Runtime: 1.1793286363283793 minutes
+Runtime: 1.1793286363283793 minutesRuntime: 0.27830031315485637 minutes
