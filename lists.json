@@ -1,5 +1,4 @@
 {
-    "completed": [],
     "non_SN": [
         "V838-Mon",
         "TCPJ17344775-2409042",
@@ -6198,6 +6197,9 @@
         "SN2002J",
         "SN2002gw",
         "SN2017cqe",
-        "SN2017cyy"
-    ]
+        "SN2017cyy",
+        "SN2017czd",
+        "SN2017cxz"
+    ],
+    "completed": []
 }
