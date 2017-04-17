@@ -6202,3 +6202,7 @@ SN2017cyy is a SN Ia
 SN2017czd is a SN II
 SN2017cxz is a SN Ib
 SN2017cxy is a SN Ia
+SN2017cuh is a SN Ia
+SN2017dbf is a SN II
+SN2017daf is a SN Ia
+SN2017cze is a SN Ia
