@@ -6206,3 +6206,4 @@ SN2017cuh is a SN Ia
 SN2017dbf is a SN II
 SN2017daf is a SN Ia
 SN2017cze is a SN Ia
+M101-OT2015-1 is a ILRT
