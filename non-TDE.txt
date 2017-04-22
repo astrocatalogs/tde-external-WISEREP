@@ -6208,3 +6208,5 @@ SN2017daf is a SN Ia
 SN2017cze is a SN Ia
 M101-OT2015-1 is a ILRT
 SN2017dae is a SN Ia
+SN2017dfq is a SN Ia
+SN2017dez is a SN Ia
