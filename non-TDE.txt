@@ -6210,3 +6210,12 @@ M101-OT2015-1 is a ILRT
 SN2017dae is a SN Ia
 SN2017dfq is a SN Ia
 SN2017dez is a SN Ia
+SN2017dfv is a SN Ia
+SN2017dfu is a SN Ia
+SN2017dft is a SN Ia
+SN2017dfo is a SN Ia
+SN2017dfn is a SN Ia
+AT2017dfe is a 
+AT2017des is a 
+SN2017def is a SN Ia
+SN2017dcc is a SN Ic-BL
