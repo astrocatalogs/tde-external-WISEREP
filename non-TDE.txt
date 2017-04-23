@@ -6219,3 +6219,11 @@ AT2017dfe is a
 AT2017des is a 
 SN2017def is a SN Ia
 SN2017dcc is a SN Ic-BL
+SN2017dff is a SN Ia
+SN2017deu is a SN Ia
+SN2017ddy is a SN Ia
+SN2017dah is a SN Ia
+SN2017cqg is a SN IIn
+SN2017dgj is a SN II
+SN2017cms is a SN Ia
+SN2017cie is a SN Ia
