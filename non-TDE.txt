@@ -6227,3 +6227,17 @@ SN2017cqg is a SN IIn
 SN2017dgj is a SN II
 SN2017cms is a SN Ia
 SN2017cie is a SN Ia
+SN2017dgi is a SN Ia
+SN2017dgd is a SN IIb
+SN2017dfb is a SN Ia-91T-like
+SN2017dgk is a SN Ic
+SN2017dfl is a Varstar
+SN2017dek is a SN II
+SN2017ddz is a SN Ia
+SN2017ddf is a SN Ia
+SN2017ddc is a SN Ic
+SN2017dby is a SN Ia
+SN2017cug is a SN Ia
+SN2017cue is a SN Ia
+SN2017cud is a SN Ia
+SN2017ctt is a SN Ia
