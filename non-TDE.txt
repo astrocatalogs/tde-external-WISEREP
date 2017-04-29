@@ -6241,3 +6241,13 @@ SN2017cug is a SN Ia
 SN2017cue is a SN Ia
 SN2017cud is a SN Ia
 SN2017ctt is a SN Ia
+SN2017dha is a SN impostor
+AT2017jt is a Galaxy
+SN2017dip is a SN Ia
+SN2017dik is a SN Ia
+AT2017dii is a Varstar
+SN2017dib is a SN Ia
+SN2017dhw is a SN Ia
+SN2017dhd is a SN Ia
+AT2017dha is a LBV
+SN2017dhr is a SN Ia
