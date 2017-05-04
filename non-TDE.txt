@@ -6291,3 +6291,6 @@ SN2017dgt is a SN Ia
 SN2017dch is a SN Ic
 SN2017dcg is a SN Ia
 SN2017dcf is a SN Ia
+SN2017drh is a SN Ia
+SN2017dps is a SN Ia
+SN2017dka is a SN II
