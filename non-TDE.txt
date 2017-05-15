@@ -6297,3 +6297,4 @@ SN2017dka is a SN II
 SN2017dwp is a SN Ia
 SN2017dpu is a SN II
 SN2017dws is a SN Ia
+SN2017eaw is a SN IIP
