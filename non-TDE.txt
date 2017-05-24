@@ -6302,3 +6302,4 @@ SN2017eaz is a SN Ia
 SN2017eax is a SN Ia
 SN2017ebp is a SN Ia
 SN2017ecp is a SN Ibn
+SN2017eex is a SN Ia
