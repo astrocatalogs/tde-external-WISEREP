@@ -6305,3 +6305,4 @@ SN2017ecp is a SN Ibn
 SN2017eex is a SN Ia
 SN2017ein is a SN Ic
 SN2017egm is a SN II
+SN2017eio is a SN Ia
