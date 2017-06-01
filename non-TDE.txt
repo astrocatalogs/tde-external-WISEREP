@@ -6307,3 +6307,4 @@ SN2017ein is a SN Ic
 SN2017egm is a SN II
 SN2017eio is a SN Ia
 SN2017ejb is a SN Ia-91bg-like
+SN2017ejd is a SN Ia
