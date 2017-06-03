@@ -6308,3 +6308,13 @@ SN2017egm is a SN II
 SN2017eio is a SN Ia
 SN2017ejb is a SN Ia-91bg-like
 SN2017ejd is a SN Ia
+ATLASfqe is a Varstar
+AT2017ftx is a Varstar
+AT2017ejg is a Galaxy
+SN2017eje is a SN II
+SN2017ejy is a SN Ia
+SN2017ejw is a SN Ia
+SN2017eiy is a SN IIb
+SN2017eir is a SN Ia
+SN2017ehp is a SN Ia
+SN2017eca is a SN II
