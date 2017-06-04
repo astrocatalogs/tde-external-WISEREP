@@ -6318,3 +6318,10 @@ SN2017eiy is a SN IIb
 SN2017eir is a SN Ia
 SN2017ehp is a SN Ia
 SN2017eca is a SN II
+AT2017ekm is a Other
+AT2017ekl is a Other
+AT2017ekg is a Other
+SN2017ehf is a SN Ia
+SN2017eef is a SN Ia-91T-like
+ATLAS17fqe is a Varstar
+ATLAS17ftx is a Varstar
