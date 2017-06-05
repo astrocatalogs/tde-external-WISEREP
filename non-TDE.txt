@@ -6325,3 +6325,7 @@ SN2017ehf is a SN Ia
 SN2017eef is a SN Ia-91T-like
 ATLAS17fqe is a Varstar
 ATLAS17ftx is a Varstar
+SN2017ekr is a SN Ia
+SN2017ele is a SN Ia
+AT2017eko is a Other
+SN2017ekl is a SN Ia
