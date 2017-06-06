@@ -6329,3 +6329,16 @@ SN2017ekr is a SN Ia
 SN2017ele is a SN Ia
 AT2017eko is a Other
 SN2017ekl is a SN Ia
+SN1992bt is a SN II
+SN1992as is a SN II
+SN2006my is a SN II
+SN2011fd is a SN IIP
+SN1992ad is a SN II
+SN2008ij is a SN II
+SN1993K is a SN II
+SN2011cj is a SN IIP
+SN1989L is a SN II
+SN1993G is a SN II
+SN2009ls is a SN II
+SN2008ex is a SN II
+SN2007gw is a SN II
