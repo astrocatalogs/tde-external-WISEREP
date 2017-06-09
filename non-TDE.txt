@@ -6342,3 +6342,4 @@ SN1993G is a SN II
 SN2009ls is a SN II
 SN2008ex is a SN II
 SN2007gw is a SN II
+SN2017emq is a SN Ia
