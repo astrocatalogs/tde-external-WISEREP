@@ -6345,3 +6345,4 @@ SN2007gw is a SN II
 SN2017emq is a SN Ia
 SN2017erp is a SN Ia
 SN2017ets is a SN Ia
+PISN_Jerkstrand is a SLSN-R
