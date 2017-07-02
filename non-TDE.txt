@@ -6347,3 +6347,5 @@ SN2017erp is a SN Ia
 SN2017ets is a SN Ia
 PISN_Jerkstrand is a SLSN-R
 SN2017ewv is a SN IIP
+SN2017faf is a SLSN-I
+SN2017ezc is a SN Ia
