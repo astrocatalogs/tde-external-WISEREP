@@ -6349,3 +6349,8 @@ PISN_Jerkstrand is a SLSN-R
 SN2017ewv is a SN IIP
 SN2017faf is a SLSN-I
 SN2017ezc is a SN Ia
+SN2017fbq is a SN II
+SN2017ezl is a SN Ia
+SN2017eze is a SN II
+SN2017eza is a SN II
+SN2017eyz is a SN Ia
