@@ -6354,3 +6354,4 @@ SN2017ezl is a SN Ia
 SN2017eze is a SN II
 SN2017eza is a SN II
 SN2017eyz is a SN Ia
+SN2017fbh is a SN Ia-91T-like
