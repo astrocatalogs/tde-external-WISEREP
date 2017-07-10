@@ -6359,3 +6359,4 @@ PS1-10bzj is a SLSN-I
 PS1-14bj is a SLSN-I
 SN2017fav is a SN IIn
 SN2017fek is a SN
+SN2017fel is a SN Ia
