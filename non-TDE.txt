@@ -6363,3 +6363,5 @@ SN2017fel is a SN Ia
 SN2017fgc is a SN Ia
 SN2014ey is a SN Ia-02cx-like
 SN2017fof is a SN Ia-91bg-like
+SN2017fqk is a SN II
+SN2017fqf is a SN Ia
