@@ -6367,3 +6367,6 @@ SN2017fqk is a SN II
 SN2017fqf is a SN Ia
 SN2015cg is a SN Ia-91T-like
 DES15E2mlf is a SLSN-I
+SN2015cj is a SN Ia
+SN2017fut is a SN Ia
+SN2017frh is a SN Ia
