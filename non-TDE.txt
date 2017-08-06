@@ -6370,3 +6370,5 @@ DES15E2mlf is a SLSN-I
 SN2015cj is a SN Ia
 SN2017fut is a SN Ia
 SN2017frh is a SN Ia
+SN2016jhr is a SN Ia
+SN2017fvl is a SN Ia
