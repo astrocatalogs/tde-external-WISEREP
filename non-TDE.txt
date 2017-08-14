@@ -6372,3 +6372,5 @@ SN2017fut is a SN Ia
 SN2017frh is a SN Ia
 SN2016jhr is a SN Ia
 SN2017fvl is a SN Ia
+SN2017gah is a SN Ia
+SN2017fzw is a SN Ia-91bg-like
