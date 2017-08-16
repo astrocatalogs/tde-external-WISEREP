@@ -6374,3 +6374,4 @@ SN2016jhr is a SN Ia
 SN2017fvl is a SN Ia
 SN2017gah is a SN Ia
 SN2017fzw is a SN Ia-91bg-like
+SN2017gax is a SN Ib/c
