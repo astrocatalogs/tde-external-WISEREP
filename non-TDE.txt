@@ -6375,3 +6375,4 @@ SN2017fvl is a SN Ia
 SN2017gah is a SN Ia
 SN2017fzw is a SN Ia-91bg-like
 SN2017gax is a SN Ib/c
+SN2017gav is a SN Ia
