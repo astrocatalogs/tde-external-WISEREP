@@ -6376,3 +6376,17 @@ SN2017gah is a SN Ia
 SN2017fzw is a SN Ia-91bg-like
 SN2017gax is a SN Ib/c
 SN2017gav is a SN Ia
+SN2017gci is a SLSN-I
+AT2017gdy is a AGN
+AT2017gdz is a Galaxy
+SN2017gdw is a SN Ia
+SN2017gdx is a SN Ia
+AT2017gdu is a Galaxy
+PS17ebh is a Other
+AT2017gdv is a AGN
+AT2017gci is a Galaxy
+SN2017gbk is a SN Ia
+SN2017gaw is a SN II
+SN2017gat is a SN Ic
+SN2017fwm is a SN Ic
+SN2008in is a SN IIP
