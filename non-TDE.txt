@@ -6390,3 +6390,10 @@ SN2017gaw is a SN II
 SN2017gat is a SN Ic
 SN2017fwm is a SN Ic
 SN2008in is a SN IIP
+AT2017gff is a AGN
+SN2017gfd is a SN Ia
+SN2017gfe is a SN Ia
+AT2017gex is a Other
+AT2017gda is a Other
+SN2017gcy is a SN Ia
+SN2017fur is a SN Ia
