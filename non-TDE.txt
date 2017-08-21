@@ -6397,3 +6397,12 @@ AT2017gex is a Other
 AT2017gda is a Other
 SN2017gcy is a SN Ia
 SN2017fur is a SN Ia
+SMT17scn is a Other
+SN2017gfa is a SN Ia
+SN2017gdg is a SN Ia
+AT2017gfk is a CV
+SN2017gfh is a SN IIb
+AT2017gcj is a CV
+SN2017gbv is a SN I
+SN2017gbh is a SN Ia
+SN2017fyo is a SN Ia
