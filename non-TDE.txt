@@ -6406,3 +6406,13 @@ AT2017gcj is a CV
 SN2017gbv is a SN I
 SN2017gbh is a SN Ia
 SN2017fyo is a SN Ia
+SMT17sct is a SN IIb
+SMT17rza is a SN Ia
+PS17ebg is a Galaxy
+SN2017gfn is a SN Ia
+SN2017gfm is a SN Ia
+SN2017gfl is a SN Ia
+Sn2017gfg is a SN Ia
+SN2017gbo is a SN Ia
+SN2017gbb is a SN Iax[02cx-like]
+AT2017fym is a SN Ia
