@@ -6416,3 +6416,10 @@ Sn2017gfg is a SN Ia
 SN2017gbo is a SN Ia
 SN2017gbb is a SN Iax[02cx-like]
 AT2017fym is a SN Ia
+SN2017ggi is a SN Ib
+SN2017ggg is a SN Ia
+AT2017ggh is a AGN
+ATLAS17jqo is a CV
+ATLAS17jqk is a CV
+ATLAS17jqj is a SN Ia
+ATLAS17jqb is a CV
