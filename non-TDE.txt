@@ -6423,3 +6423,8 @@ ATLAS17jqo is a CV
 ATLAS17jqk is a CV
 ATLAS17jqj is a SN Ia
 ATLAS17jqb is a CV
+SN2017gfy is a SN Ia
+SN2017gfj is a SN Ia
+SN2017gfz is a SN IIb
+SN2017ggu is a SN Ia
+AT2017gga is a 
