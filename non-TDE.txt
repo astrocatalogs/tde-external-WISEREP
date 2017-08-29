@@ -6428,3 +6428,9 @@ SN2017gfj is a SN Ia
 SN2017gfz is a SN IIb
 SN2017ggu is a SN Ia
 AT2017gga is a 
+OGLE17mtb is a SN II
+SN2017gir is a SN IIn
+SN2017giu is a SN II
+SN2017git is a SN Ia
+AT2017gis is a 
+SN2017ggw is a SN II
