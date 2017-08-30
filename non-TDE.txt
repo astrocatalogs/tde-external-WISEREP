@@ -6434,3 +6434,14 @@ SN2017giu is a SN II
 SN2017git is a SN Ia
 AT2017gis is a 
 SN2017ggw is a SN II
+AT2017gjb is a Galaxy
+AT2017gjc is a Galaxy
+OGLE17nif is a Varstar
+SN2017gin is a SN Ia-91T-like
+SN2017gil is a SN Ia
+SN2017ggl is a SN Ia-91T-like
+SN2017gip is a SN II
+AT2017gih is a Other
+SN2017gig is a SN Ia
+SN2017ghw is a SN IIn
+SN2017ggv is a SN IIn
