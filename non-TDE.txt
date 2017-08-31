@@ -6445,3 +6445,7 @@ AT2017gih is a Other
 SN2017gig is a SN Ia
 SN2017ghw is a SN IIn
 SN2017ggv is a SN IIn
+SN2017giq is a SN Ic
+AT2017ghc is a Other
+SN2017ghl is a SN Ia
+AT2017gie is a Other
