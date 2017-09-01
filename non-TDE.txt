@@ -6449,3 +6449,7 @@ SN2017giq is a SN Ic
 AT2017ghc is a Other
 SN2017ghl is a SN Ia
 AT2017gie is a Other
+OGLE17ojj is a SN Ia
+OGLE17nfr is a Other
+SN2017gjd is a SN Ia
+AT2017ghm is a Other
