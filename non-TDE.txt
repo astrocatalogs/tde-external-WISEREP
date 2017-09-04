@@ -6454,3 +6454,4 @@ OGLE17nfr is a Other
 SN2017gjd is a SN Ia
 AT2017ghm is a Other
 SN2017gjn is a SN Ia
+SN2017gkk is a SN IIb
