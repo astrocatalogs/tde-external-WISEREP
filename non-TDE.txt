@@ -6457,3 +6457,6 @@ SN2017gjn is a SN Ia
 SN2017gkk is a SN IIb
 SN2017glx is a SN Ia-91T-like
 SN2017gkt is a SN Ia
+SN2016jhj is a SN II
+SN2017glq is a SN Ia
+SN2017glb is a SN Ia
