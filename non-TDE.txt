@@ -6460,3 +6460,4 @@ SN2017gkt is a SN Ia
 SN2016jhj is a SN II
 SN2017glq is a SN Ia
 SN2017glb is a SN Ia
+SN2017gqr is a SN Ia
