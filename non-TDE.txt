@@ -6470,3 +6470,9 @@ SN2017glz is a SN Ia
 AT2017gpp is a Other
 AT2017glg is a Galaxy
 SN2017gih is a SN II
+OGLE17osk is a Other
+MASTERJ233054.70-365727.8 is a SN Ia
+SN2017glu is a SN Ia
+SN2017grd is a SN Ia
+SN2017gqg is a SN II
+AT2017gjp is a Other
