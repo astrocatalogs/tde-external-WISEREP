@@ -6476,3 +6476,6 @@ SN2017glu is a SN Ia
 SN2017grd is a SN Ia
 SN2017gqg is a SN II
 AT2017gjp is a Other
+SN2017grw is a SN Ia
+AT2017gge is a Other
+AT2017gsa is a CV
