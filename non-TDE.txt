@@ -6479,3 +6479,4 @@ AT2017gjp is a Other
 SN2017grw is a SN Ia
 AT2017gge is a Other
 AT2017gsa is a CV
+SN2017gtd is a SN IIP
