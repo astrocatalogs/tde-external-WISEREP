@@ -6480,3 +6480,8 @@ SN2017grw is a SN Ia
 AT2017gge is a Other
 AT2017gsa is a CV
 SN2017gtd is a SN IIP
+SN2017guh is a SN Ia
+SN2017gtw is a SN Ia
+SN2017gto is a SN Ia
+SN2017gts is a SN Ia
+SN2017gut is a SN
