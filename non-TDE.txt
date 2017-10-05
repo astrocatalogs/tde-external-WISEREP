@@ -6485,3 +6485,32 @@ SN2017gtw is a SN Ia
 SN2017gto is a SN Ia
 SN2017gts is a SN Ia
 SN2017gut is a SN
+test_27_20171001 is a SN II
+test_17_20171001 is a SN II
+test_25_20171001 is a SN II
+test_15_20171001 is a SN II
+test_5_20171001 is a SN II
+test_4_20171001 is a SN II
+test_nikola_20171001 is a SN II
+test20171001 is a SN II
+test20170930 is a SN II
+SN2017gxq is a SN Ia
+SN2017gxc is a SN II
+test20170928 is a SN II
+SN2017gth is a SN IIb
+AT2017gvi is a Other
+SN2017gxe is a SN Ia
+DES17C1ald is a SN Ia
+SN2017gtl is a SN Ia
+AT2017gum is a Other
+SN2017gwy is a SN Ia
+AT2017gwx is a CV
+SN2017gww is a SN II
+SN2017gwt is a SN Ia
+nikola_test is a SN II
+SN2017hai is a SN Ia
+SN2017haf is a SN Ia
+SN2017gzx is a SN Ia
+SN2017gzu is a SN Ia
+test_555_20171002 is a SN II
+test_777_20171002 is a SN II
