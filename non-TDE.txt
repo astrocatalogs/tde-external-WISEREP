@@ -6514,3 +6514,5 @@ SN2017gzx is a SN Ia
 SN2017gzu is a SN Ia
 test_555_20171002 is a SN II
 test_777_20171002 is a SN II
+SN2017hbi is a SN Ia
+SN2017hbg is a SN II
