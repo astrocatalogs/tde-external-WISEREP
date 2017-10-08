@@ -6516,3 +6516,5 @@ test_555_20171002 is a SN II
 test_777_20171002 is a SN II
 SN2017hbi is a SN Ia
 SN2017hbg is a SN II
+test_Sladjana2_20171002 is a SN II
+test_Sladjana1_20171002 is a SN II
