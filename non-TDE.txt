@@ -6518,3 +6518,16 @@ SN2017hbi is a SN Ia
 SN2017hbg is a SN II
 test_Sladjana2_20171002 is a SN II
 test_Sladjana1_20171002 is a SN II
+SN2017hbx is a SN Ic
+SN2017hbw is a SN Ia
+test_57_20171002 is a SN II
+test_75_20171002 is a SN II
+SN2017hdw is a SN Ia
+SN2017hdv is a SN Ia
+SN2017hdt is a SN Ia
+SN2017hcv is a SN Ia-91T-like
+SN2017hbh is a SN Ia
+SN2017hdq is a SN Ia
+SN2017hbj is a SN II
+SN2017hbf is a SN Ia
+AT2017grf is a Other
