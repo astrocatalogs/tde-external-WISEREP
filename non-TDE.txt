@@ -6549,3 +6549,26 @@ SN2017hbv is a SN Ia
 AT2017hbc is a Other
 AT2017gso is a Other
 SN2017hfv is a SN Ia
+SN2017hie is a SN Ia
+SN2017hhz is a SN Ia
+SN2017hgk is a SN Ia
+SN2017hhx is a SN IIP
+SN2017hhi is a SN Ia
+test_HBC is a Other
+test_GSO is a Other
+SN2017hkk is a SN Ia
+SN2017hjy is a SN Ia
+SN2017hjw is a SN Ia
+SN2017hju is a SN Ia
+SN2017hix is a SN Ic
+SN2017hiq is a SN Ia
+SN2017hky is a SN II
+SN2017hjs is a SN Ia
+AT2017hjp is a CV
+SN2017guu is a SN Ia
+SN2017his is a SN Ia
+SN2017hes is a SN Ia
+SN2017hlt is a SN Ia
+SN2017hle is a SN Ia-91bg-like
+SN2017hki is a SN Ia-91T-like
+SN2017hmz is a SN Ia
