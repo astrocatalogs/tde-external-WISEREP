@@ -6572,3 +6572,4 @@ SN2017hlt is a SN Ia
 SN2017hle is a SN Ia-91bg-like
 SN2017hki is a SN Ia-91T-like
 SN2017hmz is a SN Ia
+SN2017hmf is a SN Ia
