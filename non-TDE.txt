@@ -6573,3 +6573,17 @@ SN2017hle is a SN Ia-91bg-like
 SN2017hki is a SN Ia-91T-like
 SN2017hmz is a SN Ia
 SN2017hmf is a SN Ia
+SN2017hnp is a SN Ia-91T-like
+SN2017hnb is a SN Ia
+SN2017hou is a SN Ia
+SN2017hnx is a SN Ia
+SN2017hnv is a SN Ic
+SN2017hmi is a SN Ia
+SN2017hlx is a SN II
+SN2017hpa is a SN Ia
+SN2017hor is a SN Ia
+SN2017hoo is a SN Ia
+SN2017hom is a SN Ia
+SN2017hng is a SN Ia
+SN2017hpn is a SN IIP
+SN2017hol is a SN Ia
