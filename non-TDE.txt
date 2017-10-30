@@ -6587,3 +6587,8 @@ SN2017hom is a SN Ia
 SN2017hng is a SN Ia
 SN2017hpn is a SN IIP
 SN2017hol is a SN Ia
+SN2017hqc is a SN Ia
+SN2017hnq is a SN Ia-91T-like
+SN2017hjb is a SN Ia
+SN2017hip is a SN Ia
+SN2017hpj is a SN Ia
