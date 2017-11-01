@@ -6592,3 +6592,11 @@ SN2017hnq is a SN Ia-91T-like
 SN2017hjb is a SN Ia
 SN2017hip is a SN Ia
 SN2017hpj is a SN Ia
+SN2017hqj is a SN IIP
+AT2017hnj is a Other
+SN2017hpi is a SN IIP
+SN2017hkn is a SN IIP
+AT2017hqk is a Other
+SN2017hql is a SN Ia
+SN2017hqe is a SN Ia
+SN2017hpk is a SN Ia
