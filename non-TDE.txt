@@ -6600,3 +6600,6 @@ AT2017hqk is a Other
 SN2017hql is a SN Ia
 SN2017hqe is a SN Ia
 SN2017hpk is a SN Ia
+SN2017hro is a SN II
+SN2017hrn is a SN Ia-pec
+SN2017hrk is a SN Ia
