@@ -6607,3 +6607,7 @@ SN2017htp is a SN Ic-BL
 SN2017htb is a SN Ia
 SN2017hvt is a SN Ia
 ASASSN-14ms is a SN Ibn
+SN2017hxt is a SN Ib
+SN2017hrq is a SN II
+SN2017hrm is a SN Ia
+SN2017hrg is a SN Ic
