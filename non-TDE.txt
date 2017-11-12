@@ -6611,3 +6611,6 @@ SN2017hxt is a SN Ib
 SN2017hrq is a SN II
 SN2017hrm is a SN Ia
 SN2017hrg is a SN Ic
+SN2017hof is a SN Ia
+ATLAS17mzy is a Other
+SN2016eei is a SN IIn
