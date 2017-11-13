@@ -6614,3 +6614,13 @@ SN2017hrg is a SN Ic
 SN2017hof is a SN Ia
 ATLAS17mzy is a Other
 SN2016eei is a SN IIn
+SN2017hxx is a SN Ia
+SN2017hxo is a SN Ia-91T-like
+SN2017hcz is a SN Ia
+SN2017hyn is a SN Ia
+SN2017hrh is a SN Ia
+SN2017hop is a SN Ia
+AT2017hyy is a Other
+SN2017hya is a SN Ia
+SN2017hxz is a SN IIP
+SN2017huu is a SN Ia
