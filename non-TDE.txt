@@ -6624,3 +6624,10 @@ AT2017hyy is a Other
 SN2017hya is a SN Ia
 SN2017hxz is a SN IIP
 SN2017huu is a SN Ia
+SN2017hxu is a SN IIP
+SN2017hxc is a SN Ia
+SN2017hyh is a SN II
+SN2017hyx is a SN Ia
+SN2017hyw is a SN Ia
+SN2017hxv is a SN II
+SN2017hyy is a SN II
