@@ -6634,3 +6634,4 @@ SN2017hyy is a SN II
 SN2017hyr is a SN Ia
 SN2017hxy is a SN Ia-91T-like
 SN2017iej is a SN II
+SN2017igf is a SN Ia
