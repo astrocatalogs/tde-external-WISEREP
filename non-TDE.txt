@@ -6638,3 +6638,5 @@ SN2017igf is a SN Ia
 SN2017igr is a SN Ia
 SN2017icq is a SN Ia
 SN2017ibu is a SN Ia
+SN2017iji is a SN Ia
+SN2017ige is a SN Ia
