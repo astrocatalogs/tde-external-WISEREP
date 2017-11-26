@@ -6642,3 +6642,8 @@ SN2017iji is a SN Ia
 SN2017ige is a SN Ia
 SN2017ijw is a SN Ia
 SN2017ihl is a SN Ia
+AT2017igt is a Other
+AT2017ihf is a Other
+AT2017igy is a Other
+AT2017iln is a Other
+AT2017ili is a Other
