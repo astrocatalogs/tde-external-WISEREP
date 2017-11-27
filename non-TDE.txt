@@ -6647,3 +6647,10 @@ AT2017ihf is a Other
 AT2017igy is a Other
 AT2017iln is a Other
 AT2017ili is a Other
+SN2017ilf is a SN Ia
+SN2017ijn is a SN IIn
+SN2017igt is a SN Ic
+SN2017ihf is a SN Ib
+SN2017igy is a SN Ia
+SN2017iln is a SN Ia
+SN2017ili is a SN Ia
