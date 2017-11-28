@@ -6654,3 +6654,10 @@ SN2017ihf is a SN Ib
 SN2017igy is a SN Ia
 SN2017iln is a SN Ia
 SN2017ili is a SN Ia
+SN2017imx is a SN Ia
+SN2017ijx is a SN Ia
+SN2017imw is a SN Ia
+SN2017ijk is a SN Ia
+SN2017ihg is a SN Ia
+AT2017iit is a 
+MASTERJ034412.48-263556.5 is a SN II
