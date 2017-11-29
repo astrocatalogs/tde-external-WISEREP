@@ -6661,3 +6661,9 @@ SN2017ijk is a SN Ia
 SN2017ihg is a SN Ia
 AT2017iit is a 
 MASTERJ034412.48-263556.5 is a SN II
+SN2015cm is a SN Ia
+SN2017imd is a SN Ia
+SN2017ilv is a SN Ia
+SN2017ilt is a SN Ia
+SN2017ile is a SN Ia
+SN2017ijq is a SN Ia
