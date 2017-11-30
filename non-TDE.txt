@@ -6667,3 +6667,6 @@ SN2017ilv is a SN Ia
 SN2017ilt is a SN Ia
 SN2017ile is a SN Ia
 SN2017ijq is a SN Ia
+SN2017imr is a SN IIP
+SN2017ipa is a SN II
+AT2017imy is a CV
