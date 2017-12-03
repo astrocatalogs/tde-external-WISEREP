@@ -6670,3 +6670,4 @@ SN2017ijq is a SN Ia
 SN2017imr is a SN IIP
 SN2017ipa is a SN II
 AT2017imy is a CV
+SN2017iro is a SN Ib
