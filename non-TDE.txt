@@ -6672,3 +6672,4 @@ SN2017ipa is a SN II
 AT2017imy is a CV
 SN2017iro is a SN Ib
 SN2017isj is a SN Ia
+SN2017isq is a SN Ia
