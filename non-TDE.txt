@@ -6674,3 +6674,5 @@ SN2017iro is a SN Ib
 SN2017isj is a SN Ia
 SN2017isq is a SN Ia
 SN2017iuk is a SN Ic-BL
+SN2017iuu is a SN Ia
+DES16C2nm is a SLSN-I
