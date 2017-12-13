@@ -6676,3 +6676,9 @@ SN2017isq is a SN Ia
 SN2017iuk is a SN Ic-BL
 SN2017iuu is a SN Ia
 DES16C2nm is a SLSN-I
+AT2017ivc is a Other
+SN2017itp is a SN Ia
+SN2017iue is a SN II
+SN2017itw is a SN Ia
+SN2017its is a SN II
+SN2017imj is a SN II
