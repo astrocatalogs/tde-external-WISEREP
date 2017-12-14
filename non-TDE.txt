@@ -6682,3 +6682,8 @@ SN2017iue is a SN II
 SN2017itw is a SN Ia
 SN2017its is a SN II
 SN2017imj is a SN II
+SN2017iuw is a SN Ia
+SN2017itx is a SN Ia
+SN2017iws is a SN Ia
+SN2017iwi is a SN Ia
+SN2017iwh is a SN Ic
