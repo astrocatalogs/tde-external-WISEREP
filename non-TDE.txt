@@ -6687,3 +6687,6 @@ SN2017itx is a SN Ia
 SN2017iws is a SN Ia
 SN2017iwi is a SN Ia
 SN2017iwh is a SN Ic
+SN2017ito is a SN Ia
+SN2017iwt is a SN Ia
+SN2017iso is a SN II
