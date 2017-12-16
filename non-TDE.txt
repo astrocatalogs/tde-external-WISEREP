@@ -6690,3 +6690,7 @@ SN2017iwh is a SN Ic
 SN2017ito is a SN Ia
 SN2017iwt is a SN Ia
 SN2017iso is a SN II
+SN2017ixg is a SN Ia
+SN2017ixe is a SN Ia
+SN2017isu is a SN Ia
+SN2017iwy is a SN Ia
