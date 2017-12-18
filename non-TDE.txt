@@ -6714,3 +6714,6 @@ SN2017ivn is a SN II
 SN2017iui is a SN Ia
 SN2017itr is a SN II
 SN2017img is a SN Ia
+SN2017ixv is a SN Ic-BL
+SN2017ifu is a SN Ia-CSM
+SN2017iwp is a SN Ibn
