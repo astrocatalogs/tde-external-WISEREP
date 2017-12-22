@@ -6718,3 +6718,5 @@ SN2017ixv is a SN Ic-BL
 SN2017ifu is a SN Ia-CSM
 SN2017iwp is a SN Ibn
 SN2017jav is a SN Ia
+SN2017iyw is a SN Ia
+SN2017iyl is a SN Ia
