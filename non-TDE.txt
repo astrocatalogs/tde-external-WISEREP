@@ -6720,3 +6720,5 @@ SN2017iwp is a SN Ibn
 SN2017jav is a SN Ia
 SN2017iyw is a SN Ia
 SN2017iyl is a SN Ia
+SN2017jbl is a SN IIb
+SN2017jbj is a SN
