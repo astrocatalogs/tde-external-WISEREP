@@ -6725,3 +6725,6 @@ SN2017jbj is a SN
 SN2017iye is a SN Ia
 SN2017ixz is a SN IIb
 SN2017ixx is a SN II
+SN2017jdx is a SN Ia
+SN2017iyd is a SN IIb
+SN2017iyb is a SN Ia
