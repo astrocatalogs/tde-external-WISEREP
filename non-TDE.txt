@@ -6732,3 +6732,9 @@ SN2017jet is a SN Ia
 SN2017jdn is a SN IIb
 SN2017jdy is a SN Ia
 SN2017jcv is a SN II
+SN2017jeb is a SN I
+SN2017jdb is a SN Ia
+SN2017jfd is a SN Ia
+SN2017jfa is a SN II
+AT2017jeb is a SN I
+SN2017jan is a SLSN-I
