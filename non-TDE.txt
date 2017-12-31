@@ -6738,3 +6738,6 @@ SN2017jfd is a SN Ia
 SN2017jfa is a SN II
 AT2017jeb is a SN I
 SN2017jan is a SLSN-I
+SN2017jfw is a SN Ia-91bg-like
+SN2017jei is a SN II
+SN2017izu is a SN Ia
