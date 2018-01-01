@@ -6741,3 +6741,5 @@ SN2017jan is a SLSN-I
 SN2017jfw is a SN Ia-91bg-like
 SN2017jei is a SN II
 SN2017izu is a SN Ia
+SN2017jeh is a SN Ia
+SN2017jef is a SN Ia
