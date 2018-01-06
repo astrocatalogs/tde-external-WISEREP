@@ -6744,3 +6744,5 @@ SN2017izu is a SN Ia
 SN2017jeh is a SN Ia
 SN2017jef is a SN Ia
 SN2017jfo is a SN Ia
+SN2017jyl is a SN Ia
+SN2017jfb is a SN Ia
