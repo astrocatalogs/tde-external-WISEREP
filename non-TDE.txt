@@ -6746,3 +6746,13 @@ SN2017jef is a SN Ia
 SN2017jfo is a SN Ia
 SN2017jyl is a SN Ia
 SN2017jfb is a SN Ia
+SN2018K is a SN Ia-91T-like
+SN2017iwe is a SN IIP
+SN2017jcu is a SN II
+SN2017jym is a SN Ia
+SN2017jgf is a SN Ia-91T-like
+SN2017jhf is a SN Ia
+SN2017jne is a SN II
+SN2017jfv is a SN Ibn
+SN2017jfs is a SN IIn
+SN2017jeg is a SN Ia
