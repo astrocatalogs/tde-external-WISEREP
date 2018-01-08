@@ -6756,3 +6756,6 @@ SN2017jne is a SN II
 SN2017jfv is a SN Ibn
 SN2017jfs is a SN IIn
 SN2017jeg is a SN Ia
+SN2018L is a SN Ia
+SN2018H is a SN I
+SN2017jtv is a SN Ia
