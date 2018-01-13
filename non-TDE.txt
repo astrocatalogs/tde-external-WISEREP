@@ -6761,3 +6761,9 @@ SN2018H is a SN I
 SN2017jtv is a SN Ia
 SN2018bq is a SN Ia
 SN2018Z is a SN Ia
+SN2018dx is a SN Ia
+SN2018eh is a SN Ia
+SN2018ec is a SN Ic
+AT2018bl is a Other
+SN2018bg is a SN Ia
+SN2017jir is a SN Ia
