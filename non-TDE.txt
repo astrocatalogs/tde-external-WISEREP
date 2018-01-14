@@ -6767,3 +6767,6 @@ SN2018ec is a SN Ic
 AT2018bl is a Other
 SN2018bg is a SN Ia
 SN2017jir is a SN Ia
+SN2017jzp is a SN Ia
+SN2017jzk is a SN Ia
+SN2018bf is a SN Ic
