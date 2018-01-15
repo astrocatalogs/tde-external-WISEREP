@@ -6770,3 +6770,4 @@ SN2017jir is a SN Ia
 SN2017jzp is a SN Ia
 SN2017jzk is a SN Ia
 SN2018bf is a SN Ic
+SN2018gj is a SN IIb
