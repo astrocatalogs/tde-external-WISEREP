@@ -6771,3 +6771,8 @@ SN2017jzp is a SN Ia
 SN2017jzk is a SN Ia
 SN2018bf is a SN Ic
 SN2018gj is a SN IIb
+SN2018bs is a SN Ia
+SN2018ep is a SN Ia
+SN2018dz is a SN II
+SN2018bl is a SN II
+SN2017jyq is a SN Ia
