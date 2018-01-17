@@ -6776,3 +6776,12 @@ SN2018ep is a SN Ia
 SN2018dz is a SN II
 SN2018bl is a SN II
 SN2017jyq is a SN Ia
+SN2018hc is a SN II
+SN2018hb is a SN Ib
+SN2018ha is a SN Ia
+SN2018gn is a SN II
+SN2018gm is a SN Ia
+SN2018gl is a SN Ia
+SN2018gk is a SN II
+SN2018fy is a SN II
+SN2018gv is a SN Ia
