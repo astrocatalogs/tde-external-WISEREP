@@ -6785,3 +6785,9 @@ SN2018gl is a SN Ia
 SN2018gk is a SN II
 SN2018fy is a SN II
 SN2018gv is a SN Ia
+SN2018hv is a SN Ia
+SN2018dv is a SN Ia
+SN2018br is a SN Ia
+SN2018be is a SN I
+AT2017jis is a Galaxy
+SN2017ixl is a SN Ia
