@@ -6792,3 +6792,5 @@ SN2018be is a SN I
 AT2017jis is a Galaxy
 SN2017ixl is a SN Ia
 SN2018ie is a SN Ic-BL
+SN2018is is a SN II
+SN2018iq is a SN Ia
