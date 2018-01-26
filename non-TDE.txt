@@ -6862,3 +6862,6 @@ SNLS-06D1bg is a SN Ia
 SNLS-05D1hm is a SN Ia
 SNLS-05D1dx is a SN Ia
 SN2018jh is a SN Ia
+SN2018kq is a SN Ic-BL
+SN2018km is a SN Ia
+SN2018kl is a SN Ia
