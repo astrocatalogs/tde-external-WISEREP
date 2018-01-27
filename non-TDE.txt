@@ -6865,3 +6865,6 @@ SN2018jh is a SN Ia
 SN2018kq is a SN Ic-BL
 SN2018km is a SN Ia
 SN2018kl is a SN Ia
+SN2018kd is a SN Ia
+SN2018kc is a SN Ia
+SN2018ka is a SN Ia
