@@ -6868,3 +6868,5 @@ SN2018kl is a SN Ia
 SN2018kd is a SN Ia
 SN2018kc is a SN Ia
 SN2018ka is a SN Ia
+SN2018kv is a SN Ia
+SN2018kp is a SN Ia
