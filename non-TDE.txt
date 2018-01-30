@@ -6870,3 +6870,4 @@ SN2018kc is a SN Ia
 SN2018ka is a SN Ia
 SN2018kv is a SN Ia
 SN2018kp is a SN Ia
+SN2018ld is a SN IIP
