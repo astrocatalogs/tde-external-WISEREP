@@ -6872,3 +6872,8 @@ SN2018kv is a SN Ia
 SN2018kp is a SN Ia
 SN2018ld is a SN IIP
 SN2018oh is a SN Ia
+SN2018ou is a SN Ia
+SN2018oe is a SN Ia
+AT2018ly is a CV
+SN2018lm is a SN Ia
+SN2018jm is a SN Ia
