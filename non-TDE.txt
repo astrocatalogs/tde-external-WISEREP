@@ -6877,3 +6877,8 @@ SN2018oe is a SN Ia
 AT2018ly is a CV
 SN2018lm is a SN Ia
 SN2018jm is a SN Ia
+SN2018pi is a SN IIP
+SN2018pc is a SN Ia
+SN2018oz is a SN Ic
+SN2018ph is a SN Ia
+SN2018hu is a SN II
