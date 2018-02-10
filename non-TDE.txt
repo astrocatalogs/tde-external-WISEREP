@@ -6888,3 +6888,4 @@ SN2018ht is a SN II
 SN2018pv is a SN Ia
 SN2018og is a SN II
 SN2018nw is a SN II
+SN2018nt is a SN Ia
