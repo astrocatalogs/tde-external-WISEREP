@@ -6889,3 +6889,9 @@ SN2018pv is a SN Ia
 SN2018og is a SN II
 SN2018nw is a SN II
 SN2018nt is a SN Ia
+SN2018pt is a SN Ia-91T-like
+SN2018pr is a SN Ia
+SN2018pm is a SN II
+SN2018pj is a SN Ia
+SN2018ow is a SN IIb
+SN2018ot is a SN Ib
