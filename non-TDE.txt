@@ -6895,3 +6895,4 @@ SN2018pm is a SN II
 SN2018pj is a SN Ia
 SN2018ow is a SN IIb
 SN2018ot is a SN Ib
+SN2018po is a SN Ia
