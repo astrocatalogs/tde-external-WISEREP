@@ -6896,3 +6896,8 @@ SN2018pj is a SN Ia
 SN2018ow is a SN IIb
 SN2018ot is a SN Ib
 SN2018po is a SN Ia
+SN2018rz is a SN IIP
+SN2018rw is a SN Ia-91bg-like
+AT2018qb is a Galaxy
+SN2018pq is a SN II
+SN2018hi is a SN II
