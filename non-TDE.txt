@@ -6901,3 +6901,5 @@ SN2018rw is a SN Ia-91bg-like
 AT2018qb is a Galaxy
 SN2018pq is a SN II
 SN2018hi is a SN II
+AT2018qq is a CV
+SN2018qp is a SN Ia
