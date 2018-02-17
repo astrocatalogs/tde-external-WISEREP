@@ -6903,3 +6903,9 @@ SN2018pq is a SN II
 SN2018hi is a SN II
 AT2018qq is a CV
 SN2018qp is a SN Ia
+SN2018ub is a SN II
+SN2018tz is a SN Ia
+SN2018tr is a SN Ia
+SN2018tq is a SN Ia
+AT2018ts is a Galaxy
+SN2018jq is a SN Ib
