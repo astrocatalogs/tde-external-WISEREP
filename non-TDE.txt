@@ -6909,3 +6909,9 @@ SN2018tr is a SN Ia
 SN2018tq is a SN Ia
 AT2018ts is a Galaxy
 SN2018jq is a SN Ib
+SN2018vr is a SN Ia
+AT2018vj is a CV
+SN2018tt is a SN Ia
+AT2018sm is a Galaxy
+AT2018mr is a QSO
+SN2018ke is a SN II
