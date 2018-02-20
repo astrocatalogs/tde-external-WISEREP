@@ -6917,3 +6917,4 @@ AT2018mr is a QSO
 SN2018ke is a SN II
 SN2018vs is a SN Ia
 SN2018sn is a SN Ia
+SN2018wj is a SN Ia
