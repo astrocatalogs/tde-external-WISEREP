@@ -6922,3 +6922,4 @@ SN2018vx is a SN Ia-91T-like
 SN2018wh is a SN Ib/c
 AT2018sj is a AGN
 SN2015bp is a SN Ia
+SN2018xy is a SN Ia
