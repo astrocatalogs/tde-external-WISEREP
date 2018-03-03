@@ -6927,3 +6927,4 @@ SN2018yu is a SN Ia
 SN2018yo is a SN IIP
 SN2018yj is a SN Ia
 SN2018yc is a SN Ia
+SN2018ze is a SN II
