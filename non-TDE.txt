@@ -6931,3 +6931,5 @@ SN2018ze is a SN II
 SN2018zs is a SN Ia
 SN2018zc is a SN Ia
 SN2018yq is a SN Ia
+SN2018aae is a SN Ia
+SN2018zd is a SN II
