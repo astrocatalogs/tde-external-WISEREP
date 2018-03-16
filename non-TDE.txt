@@ -6934,3 +6934,8 @@ SN2018yq is a SN Ia
 SN2018aae is a SN Ia
 SN2018zd is a SN II
 SN2018aaz is a SN Ia-91bg-like
+SN2018acj is a SN IIP
+SN2018aca is a SN Ia
+SN2018abz is a SN Ia
+SN2018aby is a SN Ia
+SN2018abo is a SN Ic
