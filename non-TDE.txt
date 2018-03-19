@@ -6939,3 +6939,7 @@ SN2018aca is a SN Ia
 SN2018abz is a SN Ia
 SN2018aby is a SN Ia
 SN2018abo is a SN Ic
+SN2018ahj is a SN Ia
+SN2018ahi is a SN Ia
+SN2018ahg is a SN Ia
+SN2018ahe is a SN IIP
