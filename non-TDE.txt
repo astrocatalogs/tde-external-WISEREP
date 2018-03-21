@@ -6943,3 +6943,4 @@ SN2018ahj is a SN Ia
 SN2018ahi is a SN Ia
 SN2018ahg is a SN Ia
 SN2018ahe is a SN IIP
+SN2018aik is a SN Ia
