@@ -6952,3 +6952,7 @@ SN2018aki is a SN Ia
 SN2017kam is a SN II
 SN2018yh is a SN Ia
 SN2018akj is a SN Ib
+SN2018aly is a SN Ia
+SN2018alv is a SN Ia
+SN2018ajz is a SN II
+SN2018aii is a SN Ic
