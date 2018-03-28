@@ -6956,3 +6956,12 @@ SN2018aly is a SN Ia
 SN2018alv is a SN Ia
 SN2018ajz is a SN II
 SN2018aii is a SN Ic
+SN2018amp is a SN Ia-pec
+AT2018amn is a Other
+SN2018ame is a SN Ia-91bg-like
+SN2018amd is a SN II
+SN2018alh is a SN Ia
+SN2018akb is a SN Ia
+AT2018aja is a CV
+SN2018ahq is a SN Ia
+SN2018adj is a SN Ia
