@@ -6965,3 +6965,9 @@ SN2018akb is a SN Ia
 AT2018aja is a CV
 SN2018ahq is a SN Ia
 SN2018adj is a SN Ia
+SN2015co is a SN II
+SN2018amc is a SN II
+SN2018amb is a SN II
+SN2018alc is a SN Ib
+SN2018akm is a SN Ia-pec
+SN2018ais is a SN Ia
