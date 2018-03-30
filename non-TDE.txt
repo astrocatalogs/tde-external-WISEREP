@@ -6971,3 +6971,5 @@ SN2018amb is a SN II
 SN2018alc is a SN Ib
 SN2018akm is a SN Ia-pec
 SN2018ais is a SN Ia
+SN2015cp is a SN Ia-91T-like
+SN2018amo is a SN Ia
