@@ -6975,3 +6975,6 @@ SN2015cp is a SN Ia-91T-like
 SN2018amo is a SN Ia
 SN2018ant is a SN II
 SN2018anh is a SN II
+SN2018aoz is a SN Ia
+SN2018aoq is a SN II
+PSNJ11492548-0507138 is a SN Ia
