@@ -6979,3 +6979,10 @@ SN2018aoz is a SN Ia
 SN2018aoq is a SN II
 PSNJ11492548-0507138 is a SN Ia
 SN2018apk is a SN Ia
+SN2018zj is a SN II
+AT2018ys is a Other
+AT2018apl is a Varstar
+AT2018ang is a Other
+SN2018ajp is a SN Ia
+AT2018ahz is a AGN
+SN2018ahx is a SN Ia
