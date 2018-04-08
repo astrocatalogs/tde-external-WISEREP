@@ -6986,3 +6986,4 @@ AT2018ang is a Other
 SN2018ajp is a SN Ia
 AT2018ahz is a AGN
 SN2018ahx is a SN Ia
+SN2018afb is a SN II
