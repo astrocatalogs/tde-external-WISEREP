@@ -6994,3 +6994,4 @@ SN2018aqh is a SN Ia
 SN2018apo is a SN Ia-91T-like
 SN2018apm is a SN Ia
 AT2018ail is a Galaxy
+SN2018are is a SN Ia-91T-like
