@@ -6995,3 +6995,54 @@ SN2018apo is a SN Ia-91T-like
 SN2018apm is a SN Ia
 AT2018ail is a Galaxy
 SN2018are is a SN Ia-91T-like
+SN2018bba is a SN Ia
+SN2018baz is a SN Ia-91bg-like
+SN2018bay is a SN Ia
+SN2018bax is a SN Ia
+SN2018baw is a SN Ia
+SN2018bav is a SN Ia
+SN2018bau is a SN Ia
+SN2018bat is a SN Ia
+SN2018bas is a SN II
+SN2018baq is a SN Ia
+SN2018bac is a SN Ia
+SN2018azu is a SN Ia
+SN2018avz is a SN Ia
+SN2018axs is a SN Ia
+SN2018awo is a SN Ia
+SN2018awd is a SN Iax[02cx-like]
+SN2018avw is a SN Ia
+SN2018avc is a SN Ia
+AT2018aqx is a Other
+SN2018ayf is a SN Ia-pec
+SN2018aye is a SN Ia
+SN2018ayg is a SN Ia
+SN2018axz is a SN Ia
+SN2018axx is a SN Ia
+SN2018axw is a SN Ia
+SN2018awx is a SN II
+SN2018awt is a SN Ia
+SN2018aws is a SN Ia
+SN2018awj is a SN Ia
+SN2018avp is a SN Ia
+AT2018ave is a AGN
+AT2018avd is a Other
+SN2018aus is a SN Ia
+SN2018aun is a SN Ia
+SN2018auf is a SN Ia
+SN2018ati is a SN Ia
+SN2018atb is a SN Iax[02cx-like]
+SN2018awp is a 
+SN2018awn is a SN Ia
+SN2018avu is a SN Ia
+SN2018atq is a SN IIn
+SN2018asj is a SN Ia
+SN2018awi is a SN Ia-91bg-like
+SN2018awe is a SN II
+SN2018avv is a SN Ia
+SN2018auz is a SN Ia
+SN2018auq is a SN Ia
+AT2018asz is a Galaxy
+SN2018ash is a SN Ia
+SN2018aqz is a SN Ia
+SN2018aqg is a SN Ia
