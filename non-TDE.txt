@@ -7050,3 +7050,9 @@ SN2018bbk is a SN II
 SN2018bbz is a SN Ia
 SN2015cq is a SN II
 SN2018bdo is a SN Ia
+AT2018bbw is a Other
+SN2018bdh is a SN Ia
+SN2018bbs is a SN Ia
+SN2018bbr is a SN II
+SN2018bak is a SN Ia
+SN2018baf is a SN Ia
