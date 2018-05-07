@@ -7056,3 +7056,14 @@ SN2018bbs is a SN Ia
 SN2018bbr is a SN II
 SN2018bak is a SN Ia
 SN2018baf is a SN Ia
+MASTERJ150803.15-270155.0 is a AGN
+AT2018bel is a Varstar
+SN2018beh is a SN Ib/c
+AT2018beg is a Varstar
+AT2018bee is a Varstar
+SN2018bdm is a SN Ia-pec
+AT2018bdi is a Other
+SN2018bde is a SN Ia
+AT2018bcb is a AGN
+AT2018bbv is a Other
+SN2018bae is a SN Ia
