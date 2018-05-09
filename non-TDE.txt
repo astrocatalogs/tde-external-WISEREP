@@ -7074,3 +7074,8 @@ SN2018bfg is a SN Ia
 SN2018bfa is a SN Ia
 AT2018bem is a Varstar
 SN2018bbv is a SN II
+SN2018bft is a SN Ia
+SN2018bfr is a SN Ia
+SN2018bfh is a SN Ia
+SN2018bfe is a SN Ia
+SN2018bfd is a SN Ia
