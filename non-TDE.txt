@@ -7079,3 +7079,4 @@ SN2018bfr is a SN Ia
 SN2018bfh is a SN Ia
 SN2018bfe is a SN Ia
 SN2018bfd is a SN Ia
+SN2018bgc is a SN Ia
