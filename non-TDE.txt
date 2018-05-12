@@ -7082,3 +7082,11 @@ SN2018bfd is a SN Ia
 SN2018bgc is a SN Ia
 SN2018bfc is a SN Ia
 SN2018bek is a SN II
+SN2018bfu is a SN Ic
+SN2018bfp is a SN Ib
+SN2018bhc is a SN Ia
+SN2018bhb is a SN Ia
+SN2018bgb is a SN Ia
+SN2018bfq is a SN Ia
+SN2018bdg is a SN Ia-91T-like
+SN2018bcm is a SN Ia
