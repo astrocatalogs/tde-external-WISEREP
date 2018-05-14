@@ -7097,3 +7097,14 @@ SN2018bhp is a SN Ia
 AT2018bgt is a Varstar
 SN2018bgh is a SN Ia
 SN2018bei is a SN II
+SN2018bjp is a SN Ic
+SN2018bgz is a SN Ia
+SN2018bge is a SN II
+SN2018bfs is a SN Ia
+AT2018biy is a Varstar
+SN2018biq is a SN Ia
+SN2018bht is a SN Ia
+SN2018bhs is a SN Ia
+AT2018bhn is a Other
+AT2018bgu is a Other
+SN2018bgk is a SN Ia
