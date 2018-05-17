@@ -7108,3 +7108,6 @@ SN2018bhs is a SN Ia
 AT2018bhn is a Other
 AT2018bgu is a Other
 SN2018bgk is a SN Ia
+Ia_Jerkstrand is a Computed-Ia
+IIb_Jerkstrand is a Computed-IIb
+IIP_Jerkstrand is a Computed-IIP
