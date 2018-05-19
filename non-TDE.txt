@@ -7111,3 +7111,5 @@ SN2018bgk is a SN Ia
 Ia_Jerkstrand is a Computed-Ia
 IIb_Jerkstrand is a Computed-IIb
 IIP_Jerkstrand is a Computed-IIP
+SN2018bsr is a SN Ia
+SN2018bsn is a SN Ia
