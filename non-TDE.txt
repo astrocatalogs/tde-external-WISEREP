@@ -7113,3 +7113,6 @@ IIb_Jerkstrand is a Computed-IIb
 IIP_Jerkstrand is a Computed-IIP
 SN2018bsr is a SN Ia
 SN2018bsn is a SN Ia
+SN2018btj is a SN Ia
+SN2018bti is a SN II
+SN2018brz is a SN Ia
