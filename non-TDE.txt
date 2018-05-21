@@ -7116,3 +7116,12 @@ SN2018bsn is a SN Ia
 SN2018btj is a SN Ia
 SN2018bti is a SN II
 SN2018brz is a SN Ia
+SN2018btr is a SN Ia
+SN2018bsz is a SN II
+SN2017kdk is a SN Ia
+SN2018bta is a SN Ia
+SN2018bsy is a SN Ia
+SN2018bsq is a SN Ia
+SN2018bsg is a SN IIb
+AT2018brk is a CV
+AT2018brh is a CV
