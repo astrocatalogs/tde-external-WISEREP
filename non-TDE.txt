@@ -7125,3 +7125,10 @@ SN2018bsq is a SN Ia
 SN2018bsg is a SN IIb
 AT2018brk is a CV
 AT2018brh is a CV
+SN2018buz is a SN Ia
+SN2018btn is a SN Ia
+AT2018bsv is a Galaxy
+AT2018bsp is a CV
+SN2018bsh is a SN Ia
+SN2018bqi is a SN Ia
+SN2018bil is a SN Ia
