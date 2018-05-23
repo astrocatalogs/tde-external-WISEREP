@@ -7132,3 +7132,8 @@ AT2018bsp is a CV
 SN2018bsh is a SN Ia
 SN2018bqi is a SN Ia
 SN2018bil is a SN Ia
+SN2018bvi is a SN Ib
+SN2018but is a SN Ia
+AT2018buo is a 
+SN2018bul is a SN Ia
+SN2018bhm is a SN Ia
