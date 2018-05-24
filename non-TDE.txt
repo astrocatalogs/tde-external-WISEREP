@@ -7137,3 +7137,10 @@ SN2018but is a SN Ia
 AT2018buo is a 
 SN2018bul is a SN Ia
 SN2018bhm is a SN Ia
+SN2018bwq is a SN Ia
+SN2018bwp is a SN Ia
+AT2018bwo is a ILRT
+AT2018bwf is a Varstar
+SN2018bwd is a SN II
+SN2018bui is a SN II
+SN2018btp is a SN Ia
