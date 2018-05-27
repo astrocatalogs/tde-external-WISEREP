@@ -7144,3 +7144,4 @@ AT2018bwf is a Varstar
 SN2018bwd is a SN II
 SN2018bui is a SN II
 SN2018btp is a SN Ia
+SN2018bwv is a SN Ia
