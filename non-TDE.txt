@@ -7146,3 +7146,5 @@ SN2018bui is a SN II
 SN2018btp is a SN Ia
 SN2018bwv is a SN Ia
 SN2018byw is a SN Ia
+SN2018cbb is a SN II
+SN2018bzn is a SN Ia
