@@ -7148,3 +7148,4 @@ SN2018bwv is a SN Ia
 SN2018byw is a SN Ia
 SN2018cbb is a SN II
 SN2018bzn is a SN Ia
+SN2018cdv is a SN Ia
