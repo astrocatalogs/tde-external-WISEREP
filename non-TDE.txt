@@ -7149,3 +7149,7 @@ SN2018byw is a SN Ia
 SN2018cbb is a SN II
 SN2018bzn is a SN Ia
 SN2018cdv is a SN Ia
+SN2018cdu is a SN Ia
+SN2018cdt is a SN Ia
+SN2018cco is a SN Ia
+SN2018ccn is a SN Ia
