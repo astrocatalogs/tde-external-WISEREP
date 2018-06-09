@@ -7154,3 +7154,5 @@ SN2018cdt is a SN Ia
 SN2018cco is a SN Ia
 SN2018ccn is a SN Ia
 SN2018ccb is a SN II
+SN2018ced is a SN Ia
+SN2018cdy is a SN Ia
