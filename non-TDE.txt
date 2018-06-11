@@ -7158,3 +7158,6 @@ SN2018ced is a SN Ia
 SN2018cdy is a SN Ia
 SN2018cem is a SN Ia
 SN2018cdz is a SN Ia
+SN2018chf is a SN Ia
+SN2018ceh is a SN Ia
+SN2018cec is a SN Ia
