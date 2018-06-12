@@ -2715,4 +2715,5 @@ From statement 3: SN2018ccn has no spectra to collect
 Runtime: 0.42217665115992226 minutesRuntime: 0.2349049727121989 minutesRuntime: 0.27803951104482016 minutesRuntime: 0.34254635175069176 minutesRuntime: 0.3338890314102173 minutesFrom statement 3: SN2018chf has no spectra to collect
 From statement 3: SN2018ceh has no spectra to collect
 From statement 3: SN2018cec has no spectra to collect
-Runtime: 0.38608011802037556 minutes
+Runtime: 0.38608011802037556 minutesFrom statement 3: SN2018cir has no spectra to collect
+Runtime: 0.2869416872660319 minutes
