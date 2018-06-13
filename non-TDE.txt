@@ -7162,3 +7162,4 @@ SN2018chf is a SN Ia
 SN2018ceh is a SN Ia
 SN2018cec is a SN Ia
 SN2018cir is a SN Ia
+SN2018ciw is a SN Ia-91bg-like
