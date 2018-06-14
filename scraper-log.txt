@@ -2717,4 +2717,5 @@ From statement 3: SN2018ceh has no spectra to collect
 From statement 3: SN2018cec has no spectra to collect
 Runtime: 0.38608011802037556 minutesFrom statement 3: SN2018cir has no spectra to collect
 Runtime: 0.2869416872660319 minutesFrom statement 3: SN2018ciw has no spectra to collect
-Runtime: 0.28213640848795574 minutes
+Runtime: 0.28213640848795574 minutesFrom statement 3: SN2018cim has no spectra to collect
+Runtime: 0.3380267302195231 minutes
