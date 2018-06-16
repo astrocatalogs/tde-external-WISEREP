@@ -7166,3 +7166,4 @@ SN2018ciw is a SN Ia-91bg-like
 SN2018cim is a SN Ib
 SN2018cib is a SN Ia-91T-like
 SN2018cho is a SN IIP
+SN2018cmk is a SN Ia
