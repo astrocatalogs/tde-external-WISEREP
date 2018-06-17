@@ -7167,3 +7167,12 @@ SN2018cim is a SN Ib
 SN2018cib is a SN Ia-91T-like
 SN2018cho is a SN IIP
 SN2018cmk is a SN Ia
+SN2018coj is a SN Ia
+SN2018coi is a SN Ia
+SN2018coh is a SN Ia
+SN2018cog is a SN Ia
+SN2018cof is a SN Ia
+SN2018cod is a SN Ia
+SN2018cny is a SN Ia
+SN2018cnx is a SN Ia
+SN2018cnw is a SN Ia
