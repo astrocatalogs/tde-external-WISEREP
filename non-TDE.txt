@@ -7176,3 +7176,4 @@ SN2018cod is a SN Ia
 SN2018cny is a SN Ia
 SN2018cnx is a SN Ia
 SN2018cnw is a SN Ia
+SN2016brx is a SN Ia-91bg-like
