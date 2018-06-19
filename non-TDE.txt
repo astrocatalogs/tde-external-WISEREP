@@ -7177,3 +7177,10 @@ SN2018cny is a SN Ia
 SN2018cnx is a SN Ia
 SN2018cnw is a SN Ia
 SN2016brx is a SN Ia-91bg-like
+SN2018cri is a SN Ia
+SN2018cnz is a SN Ia
+SN2018cnv is a SN IIn
+SN2018cnj is a SN Ia
+SN2018cni is a SN Ia-pec
+SN2018cmt is a SN Ia
+SN2018cjy is a SN Ia
