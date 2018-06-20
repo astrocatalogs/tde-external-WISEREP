@@ -2729,4 +2729,4 @@ From statement 3: SN2018cnx has no spectra to collect
 Runtime: 0.6757139881451925 minutesRuntime: 0.2887550711631775 minutesFrom statement 3: SN2018cri has no spectra to collect
 From statement 3: SN2018cnz has no spectra to collect
 From statement 3: SN2018cnj has no spectra to collect
-Runtime: 0.5838361978530884 minutes
+Runtime: 0.5838361978530884 minutesRuntime: 0.3902754028638204 minutes

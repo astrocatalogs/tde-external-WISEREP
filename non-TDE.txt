@@ -7184,3 +7184,6 @@ SN2018cnj is a SN Ia
 SN2018cni is a SN Ia-pec
 SN2018cmt is a SN Ia
 SN2018cjy is a SN Ia
+SN2018cqw is a SN Ia
+SN2018cqi is a SN II
+SN2018cmo is a SN Ia
