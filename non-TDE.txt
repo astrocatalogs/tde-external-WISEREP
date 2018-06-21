@@ -7187,3 +7187,7 @@ SN2018cjy is a SN Ia
 SN2018cqw is a SN Ia
 SN2018cqi is a SN II
 SN2018cmo is a SN Ia
+SN2018crr is a SN Ia
+SN2018cox is a SN I
+SN2018cnu is a SN Ia
+SN2018cnp is a SN Ia
