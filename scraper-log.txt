@@ -2730,4 +2730,11 @@ Runtime: 0.6757139881451925 minutesRuntime: 0.2887550711631775 minutesFrom state
 From statement 3: SN2018cnz has no spectra to collect
 From statement 3: SN2018cnj has no spectra to collect
 Runtime: 0.5838361978530884 minutesRuntime: 0.3902754028638204 minutesFrom statement 3: SN2018crr has no spectra to collect
-Runtime: 0.45899188121159873 minutes
+Runtime: 0.45899188121159873 minutesFrom statement 3: SN2018ctj has no spectra to collect
+From statement 3: SN2018crs has no spectra to collect
+From statement 3: SN2018cro has no spectra to collect
+From statement 3: SN2018crn has no spectra to collect
+From statement 3: SN2018cqp has no spectra to collect
+From statement 3: SN2018coe has no spectra to collect
+From statement 3: SN2018coc has no spectra to collect
+Runtime: 0.6135878523190816 minutes
