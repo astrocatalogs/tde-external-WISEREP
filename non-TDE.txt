@@ -7198,3 +7198,5 @@ SN2018crn is a SN Ia
 SN2018cqp is a SN II
 SN2018coe is a SN Ia
 SN2018coc is a SN Ia
+SN2018cts is a SN Ia
+SN2018cow is a SN Ic-BL
