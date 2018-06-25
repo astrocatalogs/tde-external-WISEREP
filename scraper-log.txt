@@ -2739,4 +2739,4 @@ From statement 3: SN2018coe has no spectra to collect
 From statement 3: SN2018coc has no spectra to collect
 Runtime: 0.6135878523190816 minutesFrom statement 3: SN2018cts has no spectra to collect
 From statement 3: SN2018cow has no spectra to collect
-Runtime: 0.36638126770655316 minutesRuntime: 0.2434701124827067 minutes
+Runtime: 0.36638126770655316 minutesRuntime: 0.2434701124827067 minutesRuntime: 0.24740891059239706 minutes
