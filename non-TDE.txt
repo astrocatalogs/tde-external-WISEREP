@@ -7200,3 +7200,13 @@ SN2018coe is a SN Ia
 SN2018coc is a SN Ia
 SN2018cts is a SN Ia
 SN2018cow is a SN Ic-BL
+SN2018cve is a SN Ic
+SN2018cvd is a SN Ia
+SN2018cur is a SN II
+SN2018cuf is a SN II
+SN2018cua is a SN Ia
+SN2018cty is a SN Ia
+SN2018ctt is a SN Ia
+SN2018ctq is a SN Ia
+SN2018cto is a SN Ia
+SN2018ctm is a SN Ia
