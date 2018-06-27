@@ -2747,4 +2747,5 @@ From statement 3: SN2018ctt has no spectra to collect
 From statement 3: SN2018ctq has no spectra to collect
 From statement 3: SN2018cto has no spectra to collect
 From statement 3: SN2018ctm has no spectra to collect
-Runtime: 0.7686941981315613 minutes
+Runtime: 0.7686941981315613 minutesFrom statement 3: SN2018ctc has no spectra to collect
+Runtime: 0.35314672787984214 minutes

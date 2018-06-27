@@ -7210,3 +7210,5 @@ SN2018ctt is a SN Ia
 SN2018ctq is a SN Ia
 SN2018cto is a SN Ia
 SN2018ctm is a SN Ia
+SN2018cti is a SN Ia
+SN2018ctc is a SN Ia
