@@ -2748,4 +2748,14 @@ From statement 3: SN2018ctq has no spectra to collect
 From statement 3: SN2018cto has no spectra to collect
 From statement 3: SN2018ctm has no spectra to collect
 Runtime: 0.7686941981315613 minutesFrom statement 3: SN2018ctc has no spectra to collect
-Runtime: 0.35314672787984214 minutesRuntime: 0.26015236377716067 minutes
+Runtime: 0.35314672787984214 minutesRuntime: 0.26015236377716067 minutesFrom statement 3: SN2018cvx has no spectra to collect
+From statement 3: SN2018cvw has no spectra to collect
+From statement 3: SN2018cvv has no spectra to collect
+From statement 3: SN2018cvu has no spectra to collect
+From statement 3: SN2018cvt has no spectra to collect
+From statement 3: SN2018cvs has no spectra to collect
+From statement 3: SN2018cvq has no spectra to collect
+From statement 3: SN2018cvh has no spectra to collect
+From statement 3: SN2018cuw has no spectra to collect
+From statement 3: SN2018cug has no spectra to collect
+Runtime: 0.805830697218577 minutes
