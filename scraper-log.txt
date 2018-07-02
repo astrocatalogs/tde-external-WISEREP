@@ -2758,4 +2758,4 @@ From statement 3: SN2018cvq has no spectra to collect
 From statement 3: SN2018cvh has no spectra to collect
 From statement 3: SN2018cuw has no spectra to collect
 From statement 3: SN2018cug has no spectra to collect
-Runtime: 0.805830697218577 minutesRuntime: 0.24319762388865154 minutesRuntime: 0.24538960854212444 minutes
+Runtime: 0.805830697218577 minutesRuntime: 0.24319762388865154 minutesRuntime: 0.24538960854212444 minutesRuntime: 0.23881966670354207 minutes
