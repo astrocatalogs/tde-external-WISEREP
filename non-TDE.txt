@@ -7227,3 +7227,4 @@ SN2018dbd is a SN Ia
 SN2018dbc is a SN Ia
 SN2018cxl is a SN Ia
 SN2018cvf is a SN Ia
+SN2018cxj is a SN Ia

@@ -2762,4 +2762,5 @@ Runtime: 0.805830697218577 minutesRuntime: 0.24319762388865154 minutesRuntime: 0
 From statement 3: SN2018dbc has no spectra to collect
 From statement 3: SN2018cxl has no spectra to collect
 From statement 3: SN2018cvf has no spectra to collect
-Runtime: 0.45160898367563884 minutes
+Runtime: 0.45160898367563884 minutesFrom statement 3: SN2018cxj has no spectra to collect
+Runtime: 0.33103983402252196 minutes
