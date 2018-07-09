@@ -7233,3 +7233,4 @@ SN2018dcm is a SN Ia
 SN2018ddh is a SN Ia
 SN2018dct is a SN IIP
 SN2018cyg is a SN II
+SN2018dcw is a SN II
