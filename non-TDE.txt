@@ -7236,3 +7236,4 @@ SN2018cyg is a SN II
 SN2018dcw is a SN II
 SN2018deq is a SN Ia
 SN2018dco is a SN Ia-91T-like
+SN2018dfi is a SN II
