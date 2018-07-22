@@ -7241,3 +7241,5 @@ SN2018djd is a SN Ia
 SN2018dgk is a SN Ia
 SN2018dfh is a SN II
 SN2018dhp is a SN II
+SN2018eay is a SN Ia
+SN2018dyz is a SN Ia
