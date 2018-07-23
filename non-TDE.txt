@@ -7243,3 +7243,4 @@ SN2018dfh is a SN II
 SN2018dhp is a SN II
 SN2018eay is a SN Ia
 SN2018dyz is a SN Ia
+SN2018dys is a SN Ic
