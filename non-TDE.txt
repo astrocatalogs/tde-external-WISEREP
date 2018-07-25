@@ -7245,3 +7245,5 @@ SN2018eay is a SN Ia
 SN2018dyz is a SN Ia
 SN2018dys is a SN Ic
 SN2018ebj is a SN Ia
+SN2018ebw is a SN Ia
+SN2018ebt is a SN Ib/c
