@@ -2770,4 +2770,6 @@ From statement 3: SN2018dct has no spectra to collect
 From statement 3: SN2018cyg has no spectra to collect
 Runtime: 0.40065551598866783 minutesRuntime: 0.25111814339955646 minutesRuntime: 0.2948361078898112 minutesFrom statement 3: SN2018deq has no spectra to collect
 From statement 3: SN2018dco has no spectra to collect
-Runtime: 0.34580174684524534 minutesRuntime: 0.24128466844558716 minutesRuntime: 0.2424025058746338 minutesRuntime: 0.2410296638806661 minutesRuntime: 0.2810919125874837 minutesRuntime: 0.3431668162345886 minutesRuntime: 0.2979177157084147 minutesRuntime: 0.23707280158996583 minutesRuntime: 0.2852388819058736 minutesRuntime: 0.24087858200073242 minutesRuntime: 0.23798552751541138 minutesRuntime: 0.35214497645696 minutesRuntime: 0.2912880023320516 minutesRuntime: 0.29178529580434165 minutesRuntime: 0.3470626751581828 minutes
+Runtime: 0.34580174684524534 minutesRuntime: 0.24128466844558716 minutesRuntime: 0.2424025058746338 minutesRuntime: 0.2410296638806661 minutesRuntime: 0.2810919125874837 minutesRuntime: 0.3431668162345886 minutesRuntime: 0.2979177157084147 minutesRuntime: 0.23707280158996583 minutesRuntime: 0.2852388819058736 minutesRuntime: 0.24087858200073242 minutesRuntime: 0.23798552751541138 minutesRuntime: 0.35214497645696 minutesRuntime: 0.2912880023320516 minutesRuntime: 0.29178529580434165 minutesRuntime: 0.3470626751581828 minutesFrom statement 3: SN2018ecr has no spectra to collect
+From statement 3: SN2018ebk has no spectra to collect
+Runtime: 0.35184844334920246 minutes
