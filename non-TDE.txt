@@ -7255,3 +7255,4 @@ SN2018ebo is a SN Ia
 SN2018ecf is a SN II
 SN2018ecb is a SN II
 SN2018ebx is a SN Ia
+SN2018elm is a SN Ia
