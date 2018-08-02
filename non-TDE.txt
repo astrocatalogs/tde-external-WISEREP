@@ -7256,3 +7256,13 @@ SN2018ecf is a SN II
 SN2018ecb is a SN II
 SN2018ebx is a SN Ia
 SN2018elm is a SN Ia
+SN2018emx is a SN Ia
+SN2018eml is a SN Ia
+SN2018emi is a SN Ia
+SN2018ell is a SN Ia
+SN2018elk is a SN II
+SN2018elj is a SN Ia
+SN2018efk is a SN Ia
+SN2018efg is a SN Ia
+SN2018efe is a SN Ia
+SN2018efb is a SN Ia

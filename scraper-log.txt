@@ -2776,4 +2776,14 @@ Runtime: 0.35184844334920246 minutesFrom statement 3: SN2018edw has no spectra t
 Runtime: 0.289569624265035 minutesFrom statement 3: SN2018ecq has no spectra to collect
 From statement 3: SN2018ebo has no spectra to collect
 Runtime: 0.35295974016189574 minutesRuntime: 0.400337556997935 minutesRuntime: 0.24603372812271118 minutesRuntime: 0.2364525556564331 minutesFrom statement 3: SN2018elm has no spectra to collect
-Runtime: 0.29188572565714516 minutes
+Runtime: 0.29188572565714516 minutesFrom statement 3: SN2018emx has no spectra to collect
+From statement 3: SN2018eml has no spectra to collect
+From statement 3: SN2018emi has no spectra to collect
+From statement 3: SN2018ell has no spectra to collect
+From statement 3: SN2018elk has no spectra to collect
+From statement 3: SN2018elj has no spectra to collect
+From statement 3: SN2018efk has no spectra to collect
+From statement 3: SN2018efg has no spectra to collect
+From statement 3: SN2018efe has no spectra to collect
+From statement 3: SN2018efb has no spectra to collect
+Runtime: 0.7628769238789876 minutes
