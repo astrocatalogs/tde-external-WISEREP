@@ -7266,3 +7266,7 @@ SN2018efk is a SN Ia
 SN2018efg is a SN Ia
 SN2018efe is a SN Ia
 SN2018efb is a SN Ia
+SN2018eni is a SN Ia
+SN2018emy is a SN Ia
+SN2018emv is a SN Ia
+AT2017be is a ILRT
