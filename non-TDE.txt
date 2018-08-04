@@ -7270,3 +7270,5 @@ SN2018eni is a SN Ia
 SN2018emy is a SN Ia
 SN2018emv is a SN Ia
 AT2017be is a ILRT
+SN2018ejc is a SN II
+SN2018eec is a SN Ia

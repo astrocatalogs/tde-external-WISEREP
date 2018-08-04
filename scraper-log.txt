@@ -2789,4 +2789,5 @@ From statement 3: SN2018efb has no spectra to collect
 Runtime: 0.7628769238789876 minutesFrom statement 3: SN2018eni has no spectra to collect
 From statement 3: SN2018emy has no spectra to collect
 From statement 3: SN2018emv has no spectra to collect
-Runtime: 0.474483851591746 minutes
+Runtime: 0.474483851591746 minutesFrom statement 3: SN2018ejc has no spectra to collect
+Runtime: 0.3539531588554382 minutes
