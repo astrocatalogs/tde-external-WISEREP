@@ -7281,3 +7281,23 @@ SN2018eem is a SN II
 SN2018ebs is a SN Ia
 AT2018ebq is a SN Ic
 SN2018dzh is a SN Ia
+SN2018eps is a SN Ia
+SN2018eoe is a SN Ib
+SN2018elh is a SN Ia
+AT2018eph is a Other
+AT2018epa is a Other
+SN2018eov is a SN Ia
+AT2018eoo is a Other
+SN2018eog is a SN II
+SN2018eod is a SN Ia
+AT2018ene is a Other
+SN2018enc is a SN Ia
+SN2018enb is a SN Ia
+AT2018emo is a Other
+AT2018elp is a Other
+SN2018eev is a SN II
+SN2018edd is a SN Ia
+SN2018ecd is a SN Ia
+SN2018dza is a SN II
+SN2018dht is a SN II
+SN2018dfg is a SN II
