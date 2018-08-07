@@ -2793,4 +2793,4 @@ Runtime: 0.474483851591746 minutesFrom statement 3: SN2018ejc has no spectra to 
 Runtime: 0.3539531588554382 minutesRuntime: 0.7367414315541585 minutesFrom statement 3: SN2018eps has no spectra to collect
 From statement 3: SN2018eoe has no spectra to collect
 From statement 3: SN2018elh has no spectra to collect
-Runtime: 1.3282709042231242 minutes
+Runtime: 1.3282709042231242 minutesRuntime: 0.7000547250111898 minutes
