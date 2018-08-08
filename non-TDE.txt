@@ -7309,3 +7309,32 @@ SN2018eoy is a SN Ia
 SN2018emf is a SN Ia
 SN2018eph is a SN II
 SN2018emo is a SN Ia
+SN2018eqq is a SN Ia
+SN2000ei is a SLSN-II
+SN1995av is a SLSN-II
+SNLS-07D3bs is a SLSN-I
+SN2011kl is a SLSN-I
+SN2011ep is a SLSN-I
+SN2009de is a SLSN-I
+SN2007bw is a SLSN-II
+DES14S2qri is a SLSN-I
+SN1999bd is a SLSN-II
+SN1000+0216 is a SLSN-I
+SN2213-1745 is a SLSN-I
+DES14X2byo is a SLSN-I
+SN2008fz is a SLSN-I
+SN1999as is a SLSN-I
+PS1-12zn is a SLSN-I
+PS1-12bmy is a SLSN-I
+PS1-11bam is a SLSN-I
+PS1-13or is a SLSN-I
+PS1-11afv is a SLSN-I
+PS1-11tt is a SLSN-I
+PS1-10pm is a SLSN-I
+PS1-10ahf is a SLSN-I
+PS1-11aib is a SLSN-I
+PS1-13gt is a SLSN-I
+PS1-11bdn is a SLSN-I
+PS1-11ap is a SLSN-I
+PS1-12bqf is a SLSN-I
+PS1-12cil is a SLSN-I

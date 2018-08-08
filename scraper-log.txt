@@ -2793,4 +2793,32 @@ Runtime: 0.474483851591746 minutesFrom statement 3: SN2018ejc has no spectra to 
 Runtime: 0.3539531588554382 minutesRuntime: 0.7367414315541585 minutesFrom statement 3: SN2018eps has no spectra to collect
 From statement 3: SN2018eoe has no spectra to collect
 From statement 3: SN2018elh has no spectra to collect
-Runtime: 1.3282709042231242 minutesRuntime: 0.7000547250111898 minutes
+Runtime: 1.3282709042231242 minutesRuntime: 0.7000547250111898 minutesFrom statement 3: SN2000ei has no spectra to collect
+From statement 3: SN1995av has no spectra to collect
+From statement 3: SNLS-07D3bs has no spectra to collect
+From statement 3: SN2011kl has no spectra to collect
+From statement 3: SN2011ep has no spectra to collect
+From statement 3: SN2009de has no spectra to collect
+From statement 3: SN2007bw has no spectra to collect
+From statement 3: DES14S2qri has no spectra to collect
+From statement 3: SN1999bd has no spectra to collect
+From statement 3: SN1000+0216 has no spectra to collect
+From statement 3: SN2213-1745 has no spectra to collect
+From statement 3: DES14X2byo has no spectra to collect
+From statement 3: SN2008fz has no spectra to collect
+From statement 3: SN1999as has no spectra to collect
+From statement 3: PS1-12zn has no spectra to collect
+From statement 3: PS1-12bmy has no spectra to collect
+From statement 3: PS1-11bam has no spectra to collect
+From statement 3: PS1-13or has no spectra to collect
+From statement 3: PS1-11afv has no spectra to collect
+From statement 3: PS1-11tt has no spectra to collect
+From statement 3: PS1-10pm has no spectra to collect
+From statement 3: PS1-10ahf has no spectra to collect
+From statement 3: PS1-11aib has no spectra to collect
+From statement 3: PS1-13gt has no spectra to collect
+From statement 3: PS1-11bdn has no spectra to collect
+From statement 3: PS1-11ap has no spectra to collect
+From statement 3: PS1-12bqf has no spectra to collect
+From statement 3: PS1-12cil has no spectra to collect
+Runtime: 2.005618119239807 minutes
