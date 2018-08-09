@@ -7338,3 +7338,7 @@ PS1-11bdn is a SLSN-I
 PS1-11ap is a SLSN-I
 PS1-12bqf is a SLSN-I
 PS1-12cil is a SLSN-I
+SN2018esa is a SN Ia
+SN2018erw is a SN Ic
+SN2018ert is a SN Ia
+SN2018err is a SN Ia

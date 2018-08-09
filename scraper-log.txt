@@ -2821,4 +2821,8 @@ From statement 3: PS1-11bdn has no spectra to collect
 From statement 3: PS1-11ap has no spectra to collect
 From statement 3: PS1-12bqf has no spectra to collect
 From statement 3: PS1-12cil has no spectra to collect
-Runtime: 2.005618119239807 minutes
+Runtime: 2.005618119239807 minutesFrom statement 3: SN2018esa has no spectra to collect
+From statement 3: SN2018erw has no spectra to collect
+From statement 3: SN2018ert has no spectra to collect
+From statement 3: SN2018err has no spectra to collect
+Runtime: 0.4917664925257365 minutes
