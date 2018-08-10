@@ -7342,3 +7342,4 @@ SN2018esa is a SN Ia
 SN2018erw is a SN Ic
 SN2018ert is a SN Ia
 SN2018err is a SN Ia
+SN2018euz is a SN Ia
