@@ -7343,3 +7343,6 @@ SN2018erw is a SN Ic
 SN2018ert is a SN Ia
 SN2018err is a SN Ia
 SN2018euz is a SN Ia
+SN2018ety is a SN Ia-91T-like
+SN2018etj is a SN Ia
+SN2018epj is a SN Ia
