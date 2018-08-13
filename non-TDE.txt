@@ -7350,3 +7350,18 @@ SN2018emt is a SN II
 SN2018esq is a SN Ia
 AT2018eon is a CV
 SN2018efm is a SN Ia
+SN2018exv is a SN Ia
+SN2018evk is a SN II
+SN2018evb is a SN Ia
+SN2018esx is a SN Ia
+AT2018est is a CV
+AT2018erp is a AGN
+AT2018ern is a Varstar
+SN2018evd is a SN Ia
+SN2018eui is a SN Ia
+SN2018etm is a SN Ia
+SN2018ero is a SN Ia
+SN2018erc is a SN Ia
+SN2018erb is a SN Ia
+SN2018epz is a SN I
+SN2018epy is a SN Ia-91T-like
