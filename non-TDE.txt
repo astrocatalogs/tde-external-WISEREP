@@ -7377,3 +7377,4 @@ SN2018evw is a SN Ia
 SN2018evt is a SN Ia
 SN2018evf is a SN Ia
 SN2018elp is a SN II
+SN2018evo is a SN Ia
