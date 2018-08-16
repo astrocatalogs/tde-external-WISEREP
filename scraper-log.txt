@@ -2834,4 +2834,4 @@ From statement 3: SN2018ezz has no spectra to collect
 From statement 3: SN2018eyi has no spectra to collect
 From statement 3: SN2018etk has no spectra to collect
 From statement 3: SN2018ery has no spectra to collect
-Runtime: 0.9121993859608968 minutesRuntime: 0.31802345911661783 minutes
+Runtime: 0.9121993859608968 minutesRuntime: 0.31802345911661783 minutesRuntime: 0.31856348117192584 minutes
