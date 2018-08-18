@@ -7382,3 +7382,10 @@ SN2018exb is a SN Ia
 SN2018fav is a SN Ic
 SN2018ezx is a SN Ia
 SN2018eyh is a SN Ia
+AT2018fds is a Other
+SN2017fca is a SN Ia
+AT2018fci is a AGN
+SN2018fec is a SN Ia
+SN2018fdz is a SN Ia
+SN2018fcw is a SN Ia
+SN2018fae is a SN Ia
