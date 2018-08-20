@@ -7403,3 +7403,14 @@ SN2018fcu is a SN Ia
 AT2018fbl is a AGN
 SN2018faz is a SN II
 SN2018exa is a SN II
+SN2018ffj is a SLSN-I
+AT2018ffd is a Varstar
+SN2018ffb is a SN Ia
+AT2018fez is a CV
+SN2018fey is a SN Ia
+SN2018fex is a SN IIb
+SN2018few is a SN Ia
+SN2018fel is a SN Ia
+SN2018feb is a SN Ia
+AT2018fcr is a AGN
+AT2018evv is a 
