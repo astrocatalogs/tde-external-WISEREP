@@ -7414,3 +7414,13 @@ SN2018fel is a SN Ia
 SN2018feb is a SN Ia
 AT2018fcr is a AGN
 AT2018evv is a 
+SN2018ffi is a SN Ia
+SN2018fet is a SN Ia
+SN2018fdt is a SN IIn
+SN2018fgb is a SN II
+AT2018ffx is a CV
+AT2018ffw is a CV
+SN2018ffn is a SN Ia
+AT2018ffi is a Galaxy
+SN2018erl is a SN Ia
+SN2018eew is a SN Ia
