@@ -2841,4 +2841,4 @@ From statement 3: SN2018fae has no spectra to collect
 Runtime: 0.6289260546366374 minutesRuntime: 0.9871525565783182 minutes2 objects returned for SN2018ffj
 Runtime: 0.8341249545415242 minutesFrom statement 3: SN2018fet has no spectra to collect
 From statement 3: SN2018fdt has no spectra to collect
-Runtime: 0.7807480057080587 minutes
+Runtime: 0.7807480057080587 minutesRuntime: 0.26066815853118896 minutes
