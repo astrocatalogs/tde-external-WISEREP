@@ -2841,4 +2841,13 @@ From statement 3: SN2018fae has no spectra to collect
 Runtime: 0.6289260546366374 minutesRuntime: 0.9871525565783182 minutes2 objects returned for SN2018ffj
 Runtime: 0.8341249545415242 minutesFrom statement 3: SN2018fet has no spectra to collect
 From statement 3: SN2018fdt has no spectra to collect
-Runtime: 0.7807480057080587 minutesRuntime: 0.26066815853118896 minutes
+Runtime: 0.7807480057080587 minutesRuntime: 0.26066815853118896 minutesFrom statement 3: SN2018fio has no spectra to collect
+From statement 3: SN2018fin has no spectra to collect
+From statement 3: SN2018fim has no spectra to collect
+From statement 3: SN2018fhh has no spectra to collect
+From statement 3: SN2018fhg has no spectra to collect
+From statement 3: SN2018fhe has no spectra to collect
+From statement 3: SN2018fev has no spectra to collect
+From statement 3: SN2018fem has no spectra to collect
+From statement 3: SN2018fdy has no spectra to collect
+Runtime: 0.7343557516733805 minutes
