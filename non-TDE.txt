@@ -7435,3 +7435,7 @@ SN2018fem is a SN Ia
 SN2018fdy is a SN Ia
 SN2018fif is a SN
 SN2018fhw is a SN Ia
+SN2018fju is a SN Ia
+SN2018fiv is a SN Ia
+SN2018fip is a SN Ic-BL
+SN2018fgq is a SN Ia-91T-like

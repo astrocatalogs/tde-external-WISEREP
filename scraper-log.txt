@@ -2851,4 +2851,8 @@ From statement 3: SN2018fev has no spectra to collect
 From statement 3: SN2018fem has no spectra to collect
 From statement 3: SN2018fdy has no spectra to collect
 Runtime: 0.7343557516733805 minutesFrom statement 3: SN2018fif has no spectra to collect
-Runtime: 0.3668493946393331 minutesRuntime: 0.2696348071098328 minutesRuntime: 0.2586564302444458 minutesRuntime: 0.24113176663716634 minutes
+Runtime: 0.3668493946393331 minutesRuntime: 0.2696348071098328 minutesRuntime: 0.2586564302444458 minutesRuntime: 0.24113176663716634 minutesFrom statement 3: SN2018fju has no spectra to collect
+From statement 3: SN2018fiv has no spectra to collect
+From statement 3: SN2018fip has no spectra to collect
+From statement 3: SN2018fgq has no spectra to collect
+Runtime: 0.4449539422988892 minutes
