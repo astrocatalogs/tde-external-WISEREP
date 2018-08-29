@@ -7439,3 +7439,5 @@ SN2018fju is a SN Ia
 SN2018fiv is a SN Ia
 SN2018fip is a SN Ic-BL
 SN2018fgq is a SN Ia-91T-like
+SN2018fli is a SN Ia
+SN2018flg is a SN Ia
