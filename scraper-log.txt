@@ -2857,4 +2857,4 @@ From statement 3: SN2018fip has no spectra to collect
 From statement 3: SN2018fgq has no spectra to collect
 Runtime: 0.4449539422988892 minutesFrom statement 3: SN2018fli has no spectra to collect
 From statement 3: SN2018flg has no spectra to collect
-Runtime: 0.3423572142918905 minutes
+Runtime: 0.3423572142918905 minutesRuntime: 0.24363650878270468 minutes
