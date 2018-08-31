@@ -7441,3 +7441,10 @@ SN2018fip is a SN Ic-BL
 SN2018fgq is a SN Ia-91T-like
 SN2018fli is a SN Ia
 SN2018flg is a SN Ia
+SN2018fng is a SN Ia
+SN2018fnf is a SN Ia
+SN2018fne is a SN Ia
+SN2018fnd is a SN Ia
+SN2018fnc is a SN Ia
+SN2018fmu is a SN Ia
+SN2018fmr is a SN Ia
