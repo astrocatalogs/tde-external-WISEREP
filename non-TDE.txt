@@ -7448,3 +7448,6 @@ SN2018fnd is a SN Ia
 SN2018fnc is a SN Ia
 SN2018fmu is a SN Ia
 SN2018fmr is a SN Ia
+SN2018fod is a SN Ia
+SN2018foc is a SN Ia
+SN2018fob is a SN Ic
