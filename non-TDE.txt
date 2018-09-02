@@ -7451,3 +7451,8 @@ SN2018fmr is a SN Ia
 SN2018fod is a SN Ia
 SN2018foc is a SN Ia
 SN2018fob is a SN Ic
+AT2018fmt is a Other
+AT2018fms is a Varstar
+SN2018fit is a SN II
+SN2018fhx is a SN Ia
+SN2018ffo is a SN Ia
