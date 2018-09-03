@@ -7456,3 +7456,7 @@ AT2018fms is a Varstar
 SN2018fit is a SN II
 SN2018fhx is a SN Ia
 SN2018ffo is a SN Ia
+SN2018fqc is a SN Ia
+AT2018fpk is a CV
+AT2018fpd is a CV
+SN2018fnq is a SN Ia
