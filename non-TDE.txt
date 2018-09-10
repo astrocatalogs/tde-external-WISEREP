@@ -7460,3 +7460,14 @@ SN2018fqc is a SN Ia
 AT2018fpk is a CV
 AT2018fpd is a CV
 SN2018fnq is a SN Ia
+SN2018fvu is a SN II
+SN2018fvi is a SN Ia
+SN2018fub is a SN Ia
+SN2018fsa is a SN Ia
+SN2018frx is a SN Ia
+SN2018fuu is a SN Ia
+SN2018fus is a SN II
+SN2018fum is a SN Ia
+SN2018ftu is a SN Ia
+SN2018fsn is a SN II
+SN2018fru is a SN II
