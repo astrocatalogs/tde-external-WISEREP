@@ -2874,4 +2874,4 @@ From statement 3: SN2018fus has no spectra to collect
 From statement 3: SN2018fum has no spectra to collect
 From statement 3: SN2018ftu has no spectra to collect
 From statement 3: SN2018fsn has no spectra to collect
-Runtime: 0.8148653904596964 minutes
+Runtime: 0.8148653904596964 minutesRuntime: 0.5248820265134175 minutes
