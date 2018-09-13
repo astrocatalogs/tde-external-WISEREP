@@ -2878,4 +2878,7 @@ Runtime: 0.8148653904596964 minutesRuntime: 0.5248820265134175 minutesFrom state
 From statement 3: SN2018fvl has no spectra to collect
 From statement 3: SN2018fso has no spectra to collect
 Runtime: 0.6286273082097371 minutesFrom statement 3: SN2018gcj has no spectra to collect
-Runtime: 0.7784901897112528 minutes
+Runtime: 0.7784901897112528 minutesFrom statement 3: SN2018gfg has no spectra to collect
+From statement 3: SN2018gff has no spectra to collect
+From statement 3: SN2018gfe has no spectra to collect
+Runtime: 0.47615655660629275 minutes
