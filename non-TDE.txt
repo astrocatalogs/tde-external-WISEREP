@@ -7490,3 +7490,4 @@ SN2018gfe is a SN Ia
 SN2018get is a SN II
 SN2018ggu is a SN IIP
 SN2018ggc is a SN Ia
+SN2018ghc is a SN Ia
