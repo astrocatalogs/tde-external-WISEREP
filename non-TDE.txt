@@ -7491,3 +7491,12 @@ SN2018get is a SN II
 SN2018ggu is a SN IIP
 SN2018ggc is a SN Ia
 SN2018ghc is a SN Ia
+SN2018giq is a SN Ia-91T-like
+SN2018gio is a SN Ia
+SN2018gif is a SN Ia
+SN2018ghb is a SN Ia
+SN2018ggx is a SN Ia
+SN2018ggt is a SN Ia
+SN2018gfi is a SN Ia
+SN2018ges is a SN Ia
+SN2018gdg is a SN Ia
