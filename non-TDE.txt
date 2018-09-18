@@ -7500,3 +7500,10 @@ SN2018ggt is a SN Ia
 SN2018gfi is a SN Ia
 SN2018ges is a SN Ia
 SN2018gdg is a SN Ia
+SN2018gkw is a SN Ia
+SN2018gka is a SN Ia
+SN2018gjt is a SN Ia
+SN2018giu is a SN Ic-BL
+SN2018git is a SN Ia
+SN2018ggz is a SN Ia
+SN2018geo is a SN Ia
