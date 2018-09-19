@@ -7507,3 +7507,10 @@ SN2018giu is a SN Ic-BL
 SN2018git is a SN Ia
 SN2018ggz is a SN Ia
 SN2018geo is a SN Ia
+SN2018glu is a SN Ia
+SN2018gls is a SN Ia
+SN2018gjx is a SN II
+SN2018gju is a SN Ic-BL
+SN2018gjr is a SN Ia
+SN2018ghu is a SN Ia-91T-like
+SN2018gft is a SLSN-I
