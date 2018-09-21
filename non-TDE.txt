@@ -7517,3 +7517,4 @@ SN2018gft is a SLSN-I
 SN2018gqb is a SN Ia-91T-like
 SN2018gkz is a SN Ia
 SN2018ggq is a SN Ia
+SN2018grt is a SN Ia
