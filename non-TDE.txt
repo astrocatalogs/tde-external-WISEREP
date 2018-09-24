@@ -7521,3 +7521,6 @@ SN2018grt is a SN Ia
 SN2018grg is a SN Ia
 SN2018grc is a SN Ia
 SN2018grb is a SN Ia
+SN2018gtg is a SN Ia
+SN2018gsk is a SN Ic
+SN2018gro is a SN Ia-91bg-like
