@@ -2893,4 +2893,4 @@ Runtime: 0.6312561710675557 minutesFrom statement 3: SN2018gjr has no spectra to
 From statement 3: SN2018gft has no spectra to collect
 Runtime: 0.6360551118850708 minutesFrom statement 3: SN2018gqb has no spectra to collect
 Runtime: 0.42462528546651207 minutesFrom statement 3: SN2018grt has no spectra to collect
-Runtime: 0.32110840479532876 minutesRuntime: 0.431280251344045 minutesRuntime: 0.26321914196014407 minutesRuntime: 0.42061147292455037 minutes
+Runtime: 0.32110840479532876 minutesRuntime: 0.431280251344045 minutesRuntime: 0.26321914196014407 minutesRuntime: 0.42061147292455037 minutesRuntime: 0.31070521275202434 minutes
