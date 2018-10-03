@@ -7531,3 +7531,6 @@ SN2018gvt is a SN II
 SN2018gwo is a SN I
 SN2018gvj is a SN Ia
 SN2018gvi is a SN Ia
+SN2018gxp is a SN Ia
+SN2018gwc is a SN Ia
+SN2018gwb is a SN Ia
