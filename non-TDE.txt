@@ -7534,3 +7534,6 @@ SN2018gvi is a SN Ia
 SN2018gxp is a SN Ia
 SN2018gwc is a SN Ia
 SN2018gwb is a SN Ia
+SN2018hay is a SN II
+SN2018gyr is a SN Ia
+SN2018gwr is a SN II
