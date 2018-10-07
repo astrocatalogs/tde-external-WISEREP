@@ -7539,3 +7539,6 @@ SN2018gyr is a SN Ia
 SN2018gwr is a SN II
 SN2018hbh is a SN Ia
 SN2018gys is a SN Ia
+SN2018hcp is a SN IIP
+SN2018gxq is a SN Ia
+SN2018gxo is a SN Ia
