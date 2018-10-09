@@ -7542,3 +7542,4 @@ SN2018gys is a SN Ia
 SN2018hcp is a SN IIP
 SN2018gxq is a SN Ia
 SN2018gxo is a SN Ia
+SN2018hck is a SN Ia
