@@ -7544,3 +7544,5 @@ SN2018gxq is a SN Ia
 SN2018gxo is a SN Ia
 SN2018hck is a SN Ia
 SN2018hdo is a SN Ia
+SN2018hdp is a SN Ic
+SN2018hcz is a SN Ib/c
