@@ -7546,3 +7546,14 @@ SN2018hck is a SN Ia
 SN2018hdo is a SN Ia
 SN2018hdp is a SN Ic
 SN2018hcz is a SN Ib/c
+SN2018hfn is a SN
+SN2018hfm is a SN II
+SN2018hfg is a SN IIn
+SN2018hde is a SN IIP
+SN2018hgd is a SN
+SN2018hgc is a SN Ia
+SN2018hfr is a SN Ia-91T-like
+SN2018hfp is a SN Ia
+SN2018hee is a SN Ia
+SN2018hhn is a SN Ia
+SN2018hfu is a SN Ia-pec
