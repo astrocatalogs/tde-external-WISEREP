@@ -7569,3 +7569,5 @@ SN2018hlr is a SN Ia
 SN2018hlp is a SN Ia
 SN2018hmk is a SN Ib
 SN2018hna is a SN II
+SN2018hox is a SN Ia
+SN2018how is a SN Ia
