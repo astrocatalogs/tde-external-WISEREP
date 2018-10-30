@@ -7571,3 +7571,7 @@ SN2018hmk is a SN Ib
 SN2018hna is a SN II
 SN2018hox is a SN Ia
 SN2018how is a SN Ia
+SN2018hqh is a SN Ia
+SN2018hqf is a SN Ia
+SN2018hqd is a SN Ia
+SN2018hqc is a SN Ia
