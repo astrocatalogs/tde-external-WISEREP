@@ -7576,3 +7576,8 @@ SN2018hqf is a SN Ia
 SN2018hqd is a SN Ia
 SN2018hqc is a SN Ia
 SN2018hpu is a SN Ia
+SN2018hrt is a SN Ia
+SN2018hrs is a SN Ia
+SN2018hrr is a SN Ia
+SN2018hrk is a SN Ia-pec
+SN2018hoy is a SN Ia
