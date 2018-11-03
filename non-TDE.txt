@@ -7581,3 +7581,4 @@ SN2018hrs is a SN Ia
 SN2018hrr is a SN Ia
 SN2018hrk is a SN Ia-pec
 SN2018hoy is a SN Ia
+SN2018hov is a SN II
