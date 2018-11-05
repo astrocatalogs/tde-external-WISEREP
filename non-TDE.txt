@@ -7582,3 +7582,13 @@ SN2018hrr is a SN Ia
 SN2018hrk is a SN Ia-pec
 SN2018hoy is a SN Ia
 SN2018hov is a SN II
+SN2018hui is a SN Ia
+SN2018hts is a SN Ia
+SN2018htn is a SN Ia
+SN2018htb is a SN Ia
+SN2018hsy is a SN Ia
+SN2018hsv is a SN Ia
+SN2018hsa is a SN Ia
+SN2018hrv is a SN Ia
+SN2018hru is a SN Ia
+SN2018hrp is a SN Ia
