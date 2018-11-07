@@ -7594,3 +7594,6 @@ SN2018hru is a SN Ia
 SN2018hrp is a SN Ia
 SN2018hul is a SN Ia
 SN2018hss is a SN Ia
+SN2018hyy is a SN Ia
+SN2018hti is a SLSN-I
+SN2018hsz is a SN Ia
