@@ -7603,3 +7603,8 @@ SN2018icr is a SN Ia
 SN2018hyw is a SN II
 SN2018hwm is a SN II
 SN2018huy is a SN Ia
+SN2018ikk is a SN Ia
+SN2018ieu is a SN Ia
+SN2018iby is a SN II
+SN2018hzx is a SN Ia
+SN2018hzd is a SN Ia
