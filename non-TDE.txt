@@ -7608,3 +7608,10 @@ SN2018ieu is a SN Ia
 SN2018iby is a SN II
 SN2018hzx is a SN Ia
 SN2018hzd is a SN Ia
+SN2018imi is a SN Ia
+SN2018imf is a SN IIP
+SN2018imc is a SN Ia
+SN2018ilu is a SN Ia
+SN2018iko is a SN Ia
+SN2018ikg is a SN Ia
+SN2018ihs is a SN Ia
