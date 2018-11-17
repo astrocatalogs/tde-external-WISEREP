@@ -7615,3 +7615,5 @@ SN2018ilu is a SN Ia
 SN2018iko is a SN Ia
 SN2018ikg is a SN Ia
 SN2018ihs is a SN Ia
+SN2018iii is a SN Ia
+SN2018iif is a SN II-pec
