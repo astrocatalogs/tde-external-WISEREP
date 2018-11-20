@@ -7617,3 +7617,6 @@ SN2018ikg is a SN Ia
 SN2018ihs is a SN Ia
 SN2018iii is a SN Ia
 SN2018iif is a SN II-pec
+SN2018inf is a SN Ia
+SN2018imy is a SN Ia
+SN2018ikr is a SN Ia
