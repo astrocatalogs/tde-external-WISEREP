@@ -7627,3 +7627,4 @@ SN2018iun is a SN II
 SN2018itl is a SN Ia
 SN2018iqx is a SN Ib/c
 SN2018iqt is a SN Ia
+SN2018iui is a SN Ia
