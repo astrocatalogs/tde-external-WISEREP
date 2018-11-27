@@ -2898,4 +2898,6 @@ Runtime: 0.4637622753779093 minutesRuntime: 0.3452885071436564 minutesRuntime: 0
 Runtime: 0.7400428851445516 minutesRuntime: 0.4344613631566366 minutesRuntime: 0.31485124429066974 minutesRuntime: 0.3120619018872579 minutesRuntime: 0.5084046165148417 minutesRuntime: 0.5282981395721436 minutesFrom statement 3: SN2018iun has no spectra to collect
 From statement 3: SN2018itl has no spectra to collect
 Runtime: 0.5885020931561787 minutesRuntime: 0.33088691234588624 minutesFrom statement 3: SN2018iui has no spectra to collect
-Runtime: 0.3763665239016215 minutesRuntime: 0.3690914034843445 minutesRuntime: 0.30157052278518676 minutes
+Runtime: 0.3763665239016215 minutesRuntime: 0.3690914034843445 minutesRuntime: 0.30157052278518676 minutesFrom statement 3: SN2018iso has no spectra to collect
+From statement 3: SN2018iqa has no spectra to collect
+Runtime: 0.7527630448341369 minutes

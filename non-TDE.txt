@@ -7629,3 +7629,10 @@ SN2018iqx is a SN Ib/c
 SN2018iqt is a SN Ia
 SN2018iui is a SN Ia
 SN2018ivc is a SN II
+SN2018iyw is a SN Ia
+SN2018ixw is a SN Ia
+SN2018iuo is a SN Ia
+SN2018iuf is a SN Ia
+SN2018iso is a SN Ia
+SN2018isb is a SN Ia
+SN2018iqa is a SN Ia
