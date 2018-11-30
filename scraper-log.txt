@@ -2902,4 +2902,5 @@ Runtime: 0.3763665239016215 minutesRuntime: 0.3690914034843445 minutesRuntime: 0
 From statement 3: SN2018iqa has no spectra to collect
 Runtime: 0.7527630448341369 minutesFrom statement 3: SN2018jbl has no spectra to collect
 From statement 3: SN2018jbj has no spectra to collect
-Runtime: 0.5665625174840291 minutesRuntime: 0.3799461285273234 minutes
+Runtime: 0.5665625174840291 minutesRuntime: 0.3799461285273234 minutesFrom statement 3: SN2018jes has no spectra to collect
+Runtime: 0.3763566295305888 minutes

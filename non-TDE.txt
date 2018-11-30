@@ -7641,3 +7641,4 @@ SN2018jbj is a SN II
 SN2018jaj is a SN Ia
 SN2018itr is a SN Ia
 SN2018izc is a SN II
+SN2018jes is a SN Ia
