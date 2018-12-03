@@ -7644,3 +7644,4 @@ SN2018izc is a SN II
 SN2018jes is a SN Ia
 SN2018jeo is a SN Ia
 SN2018ize is a SN Ia
+SN2018jgu is a SN Ia
