@@ -7655,3 +7655,5 @@ SN2018jff is a SN Ia
 SN2018jdq is a SN Ia
 SN2018jdn is a SN Ia
 SN2018jbm is a SN Ia
+SN2018jfp is a SN II
+SN2018jfn is a SN Ia
