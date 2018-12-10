@@ -7663,3 +7663,7 @@ SN2018jgw is a SN Ia
 SN2018jky is a SN Ia
 SN2018jlp is a SN II
 SN2018jki is a SN Ia
+SN2018jmu is a SN Ia
+SN2018jkd is a SN Ia
+SN2018jkb is a SN II
+SN2018jjz is a SN Ia
