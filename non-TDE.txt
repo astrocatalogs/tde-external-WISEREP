@@ -7669,3 +7669,7 @@ SN2018jkb is a SN II
 SN2018jjz is a SN Ia
 SN2018jpn is a SN Ia
 SN2018jov is a SN Ia
+SN2018jpe is a SN Ia
+SN2018jny is a SN Ia
+SN2018jmo is a SN Ia
+SN2018jma is a SN Ia
