@@ -7673,3 +7673,7 @@ SN2018jpe is a SN Ia
 SN2018jny is a SN Ia
 SN2018jmo is a SN Ia
 SN2018jma is a SN Ia
+SN2018jrn is a SN Ia
+SN2018jrj is a SN II
+SN2018jnc is a SN Ia
+SN2018jme is a SN Ic
