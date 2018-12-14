@@ -7677,3 +7677,14 @@ SN2018jrn is a SN Ia
 SN2018jrj is a SN II
 SN2018jnc is a SN Ia
 SN2018jme is a SN Ic
+SN2018jsv is a SN Ia
+SN2018jsu is a SN Ia
+SN2018jst is a SN Ia
+SN2018jrb is a SN II
+SN2018jpk is a SN Ia
+SN2018jpi is a SN
+SN2018joo is a SN Ia
+SN2018jof is a SN Ia
+SN2018joe is a SN Ia
+SN2018jnf is a SN Ia
+SN2018jly is a SN Ia
