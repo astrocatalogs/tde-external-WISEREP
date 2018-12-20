@@ -7697,3 +7697,5 @@ SN2018jtb is a SN Ia
 SN2018jsy is a SN Ia
 SN2018jsn is a SN II
 SN2018jrp is a SN Ia
+SN2018kbh is a SN Ia
+SN2018kag is a SN II
